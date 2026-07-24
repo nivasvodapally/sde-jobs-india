@@ -1,0 +1,171 @@
+{
+  "updated": "24 Jul 2026, 11:20 AM IST",
+  "count": 15,
+  "jobs": [
+    {
+      "title": "Software Development Engineer",
+      "company": "Amazon",
+      "location": "Bangalore",
+      "description": "Join Amazon's SDE team building next-gen e-commerce platforms. Work on high-scale distributed systems.",
+      "url": "https://www.amazon.jobs",
+      "posted": "Today",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "Amazon Careers"
+    },
+    {
+      "title": "SDE I - Backend",
+      "company": "Flipkart",
+      "location": "Bangalore",
+      "description": "Build and maintain backend services for India's largest e-commerce platform. Work with Java, Spring Boot, and microservices.",
+      "url": "https://www.flipkartcareers.com",
+      "posted": "Today",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "Flipkart Careers"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Google",
+      "location": "Hyderabad",
+      "description": "Design and develop large-scale systems for Google's core products. 5+ years experience required.",
+      "url": "https://careers.google.com",
+      "posted": "Yesterday",
+      "level": "senior",
+      "type": "Full-time",
+      "source": "Google Careers"
+    },
+    {
+      "title": "Software Engineer - Full Stack",
+      "company": "Microsoft",
+      "location": "Hyderabad",
+      "description": "Develop cloud-native applications using Azure, React, and .NET. Collaborate with global teams.",
+      "url": "https://careers.microsoft.com",
+      "posted": "1 day ago",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "Microsoft Careers"
+    },
+    {
+      "title": "Junior Software Engineer",
+      "company": "Swiggy",
+      "location": "Bangalore",
+      "description": "Build features for India's leading food delivery platform. Work with Golang, Kafka, and Postgres.",
+      "url": "https://careers.swiggy.com",
+      "posted": "2 days ago",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "Swiggy Careers"
+    },
+    {
+      "title": "SDE II - Platform Engineering",
+      "company": "Zomato",
+      "location": "Gurgaon",
+      "description": "Design and build internal developer platforms. Experience with Kubernetes and CI/CD pipelines.",
+      "url": "https://www.zomato.com/careers",
+      "posted": "2 days ago",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "Zomato Careers"
+    },
+    {
+      "title": "Software Development Engineer - Test",
+      "company": "PhonePe",
+      "location": "Bangalore",
+      "description": "Build automated testing frameworks for India's leading payments app. Python, Selenium, and CI/CD.",
+      "url": "https://www.phonepe.com/careers",
+      "posted": "3 days ago",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "PhonePe Careers"
+    },
+    {
+      "title": "Principal Software Engineer",
+      "company": "Oracle",
+      "location": "Bangalore",
+      "description": "Lead architecture for Oracle Cloud Infrastructure services. 10+ years experience in distributed systems.",
+      "url": "https://careers.oracle.com",
+      "posted": "3 days ago",
+      "level": "senior",
+      "type": "Full-time",
+      "source": "Oracle Careers"
+    },
+    {
+      "title": "Software Engineer - Machine Learning",
+      "company": "Uber",
+      "location": "Bangalore",
+      "description": "Build ML-powered features for Uber's platform. Experience with TensorFlow, PyTorch, and recommendation systems.",
+      "url": "https://www.uber.com/careers",
+      "posted": "4 days ago",
+      "level": "senior",
+      "type": "Full-time",
+      "source": "Uber Careers"
+    },
+    {
+      "title": "Graduate Software Engineer",
+      "company": "JPMorgan Chase",
+      "location": "Mumbai",
+      "description": "Join the technology analyst program. Work on financial systems with Java, Python, and cloud platforms.",
+      "url": "https://careers.jpmorgan.com",
+      "posted": "5 days ago",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "JPMorgan Careers"
+    },
+    {
+      "title": "SDE - Backend (Node.js)",
+      "company": "Razorpay",
+      "location": "Bangalore",
+      "description": "Build payment infrastructure for India. Work with Node.js, Redis, and PostgreSQL at scale.",
+      "url": "https://razorpay.com/careers",
+      "posted": "5 days ago",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "Razorpay Careers"
+    },
+    {
+      "title": "Staff Software Engineer",
+      "company": "Salesforce",
+      "location": "Hyderabad",
+      "description": "Lead technical initiatives for Salesforce's core platform. Design large-scale distributed systems.",
+      "url": "https://www.salesforce.com/company/careers",
+      "posted": "6 days ago",
+      "level": "senior",
+      "type": "Full-time",
+      "source": "Salesforce Careers"
+    },
+    {
+      "title": "Software Engineer I",
+      "company": "Paytm",
+      "location": "Noida",
+      "description": "Build and maintain features for India's largest digital payments platform. Java, MySQL, and AWS.",
+      "url": "https://paytm.com/careers",
+      "posted": "1 week ago",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "Paytm Careers"
+    },
+    {
+      "title": "SDE - Frontend",
+      "company": "Myntra",
+      "location": "Bangalore",
+      "description": "Build beautiful, performant UIs for fashion e-commerce. React, TypeScript, and Next.js.",
+      "url": "https://www.myntra.com/careers",
+      "posted": "1 week ago",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "Myntra Careers"
+    },
+    {
+      "title": "Senior Software Developer",
+      "company": "Adobe",
+      "location": "Noida",
+      "description": "Develop cloud-based creative tools. Work with microservices, AWS, and modern web technologies.",
+      "url": "https://www.adobe.com/careers",
+      "posted": "1 week ago",
+      "level": "senior",
+      "type": "Full-time",
+      "source": "Adobe Careers"
+    }
+  ]
+}
