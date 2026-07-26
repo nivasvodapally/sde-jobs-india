@@ -1,5 +1,5 @@
 {
-  "updated": "25 Jul 2026, 04:41 AM IST",
+  "updated": "26 Jul 2026, 04:55 AM IST",
   "count": 27,
   "jobs": [
     {
@@ -168,11 +168,33 @@
       "source": "Adobe Careers"
     },
     {
-      "title": "Software Engineer, Full Stack",
-      "company": "Google",
+      "title": "Custom Software Engineer",
+      "company": "Accenture in India",
+      "location": "Bhubaneswar, Odisha, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4439336029",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Backend Developer",
+      "company": "RideTEGO",
+      "location": "Haridwar, Uttarakhand, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/backend-developer-at-ridetego-4439289904",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Microsoft",
       "location": "Bengaluru, Karnataka, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-full-stack-at-google-4441354802",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-microsoft-4431755425",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -190,66 +212,11 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer",
-      "company": "Microsoft",
-      "location": "Hyderabad, Telangana, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-microsoft-4443902856",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer",
-      "company": "Aditya Birla Capital",
-      "location": "Maharashtra, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-aditya-birla-capital-4416067484",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "SOFTWARE ENGINEER - FRESHER",
-      "company": "Inceptionway",
-      "location": "Hyderabad, Telangana, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-fresher-at-inceptionway-4443528696",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Freshers / Entry Level Position for Software engineer",
-      "company": "Dhruvsoft",
-      "location": "Hyderabad, Telangana, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/freshers-entry-level-position-for-software-engineer-at-dhruvsoft-4442680349",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineering",
-      "company": "Microsoft",
-      "location": "Hyderabad, Telangana, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineering-at-microsoft-4443908348",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer",
-      "company": "Cisco",
+      "title": "Software Engineer, Full Stack",
+      "company": "Google",
       "location": "Bengaluru, Karnataka, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-cisco-4436702583",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-full-stack-at-google-4441354802",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -267,6 +234,17 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Software Engineer",
+      "company": "Cisco",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-cisco-4436702583",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "SDE -2 ( Python & Gen AI )",
       "company": "Adobe",
       "location": "Noida, Uttar Pradesh, India",
@@ -278,22 +256,44 @@
       "source": "LinkedIn"
     },
     {
-      "title": "SDE - 1 - Backend",
-      "company": "Snapmint",
-      "location": "Bengaluru, Karnataka, India",
+      "title": "Software Engineer",
+      "company": "Aditya Birla Capital",
+      "location": "Maharashtra, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/sde-1-backend-at-snapmint-4418944702",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-aditya-birla-capital-4416067484",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
       "source": "LinkedIn"
     },
     {
-      "title": "Software Developer-Fresher",
-      "company": "WonderBiz Technologies Pvt.",
-      "location": "Thane, Maharashtra, India",
+      "title": "Freshers / Entry Level Position for Software engineer",
+      "company": "Dhruvsoft",
+      "location": "Hyderabad, Telangana, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-developer-fresher-at-wonderbiz-technologies-pvt-4437681007",
+      "url": "https://in.linkedin.com/jobs/view/freshers-entry-level-position-for-software-engineer-at-dhruvsoft-4442680349",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "SOFTWARE ENGINEER - FRESHER",
+      "company": "Inceptionway",
+      "location": "Hyderabad, Telangana, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-fresher-at-inceptionway-4443528696",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "SDE - 1 - Backend",
+      "company": "Snapmint",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/sde-1-backend-at-snapmint-4418944702",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
