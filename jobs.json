@@ -1,7 +1,18 @@
 {
-  "updated": "28 Jul 2026, 04:40 AM IST",
-  "count": 32,
+  "updated": "29 Jul 2026, 04:44 AM IST",
+  "count": 25,
   "jobs": [
+    {
+      "title": "Software Development Engineer",
+      "company": "Amazon",
+      "location": "Bangalore",
+      "description": "Join Amazon's SDE team building next-gen e-commerce platforms. Work on high-scale distributed systems with Java, AWS, and microservices.",
+      "url": "https://www.amazon.jobs/en/jobs/?base_query=software+development+engineer&loc_query=India",
+      "posted": "Today",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "Amazon Careers"
+    },
     {
       "title": "SDE I - Backend",
       "company": "Flipkart",
@@ -159,9 +170,9 @@
     {
       "title": "Custom Software Engineer",
       "company": "Accenture in India",
-      "location": "Bhubaneswar, Odisha, India",
+      "location": "Coimbatore, Tamil Nadu, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4439336029",
+      "url": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4434727524",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -223,17 +234,6 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer II, Google Ads",
-      "company": "Google",
-      "location": "Bengaluru, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-google-ads-at-google-4444026074",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Software Engineer",
       "company": "Aditya Birla Capital",
       "location": "Maharashtra, India",
@@ -245,110 +245,33 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer, Developer Experience",
-      "company": "Notion",
-      "location": "Hyderabad, Telangana, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-developer-experience-at-notion-4375460799",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer",
-      "company": "Capgemini",
+      "title": "Software Engineer 2- frontend",
+      "company": "Intuit",
       "location": "Bengaluru, Karnataka, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-capgemini-4437472950",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-2-frontend-at-intuit-4443124147",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer",
-      "company": "Mphasis",
+      "title": "SDE - 1 - Backend",
+      "company": "Snapmint",
       "location": "Bengaluru, Karnataka, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-mphasis-4435540928",
+      "url": "https://in.linkedin.com/jobs/view/sde-1-backend-at-snapmint-4418944702",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
       "source": "LinkedIn"
     },
     {
-      "title": "Fresher (2025 Batch) | Software Developer",
-      "company": "Propel Consulting Services, Inc.",
-      "location": "Chennai, Tamil Nadu, India",
+      "title": "Software Developer-Fresher",
+      "company": "WonderBiz Technologies Pvt.",
+      "location": "Thane, Maharashtra, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/fresher-2025-batch-software-developer-at-propel-consulting-services-inc-4444308348",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer",
-      "company": "hackajob",
-      "location": "Pune Division, Maharashtra, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-hackajob-4426962583",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "MERN Stack Developer",
-      "company": "Infowind Technologies",
-      "location": "Indore, Madhya Pradesh, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/mern-stack-developer-at-infowind-technologies-4442741266",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer 2",
-      "company": "Microsoft",
-      "location": "Hyderabad, Telangana, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-2-at-microsoft-4444440393",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Developer",
-      "company": "Aditya Birla Capital",
-      "location": "Tamil Nadu, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/developer-at-aditya-birla-capital-4416429342",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Python With Gen AI",
-      "company": "Capgemini",
-      "location": "Bengaluru, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/python-with-gen-ai-at-capgemini-4439032902",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Development Engineer",
-      "company": "Amazon",
-      "location": "Bengaluru, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-at-amazon-4443042368",
+      "url": "https://in.linkedin.com/jobs/view/software-developer-fresher-at-wonderbiz-technologies-pvt-4437681007",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
