@@ -1,6 +1,6 @@
 {
-  "updated": "02 Aug 2026, 04:52 AM IST",
-  "count": 26,
+  "updated": "03 Aug 2026, 05:02 AM IST",
+  "count": 24,
   "jobs": [
     {
       "title": "Software Development Engineer",
@@ -168,55 +168,11 @@
       "source": "Adobe Careers"
     },
     {
-      "title": "Custom Software Engineer",
-      "company": "Accenture in India",
-      "location": "Coimbatore, Tamil Nadu, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4434727524",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer",
-      "company": "IDfy",
-      "location": "Mumbai Metropolitan Region",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-idfy-4447012323",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Developer 2",
-      "company": "Vena Solutions",
-      "location": "Indore, Madhya Pradesh, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-developer-2-at-vena-solutions-4413409230",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer (C, C++, or Rust)",
-      "company": "Antier",
-      "location": "Sahibzada Ajit Singh Nagar, Punjab, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-c-c%2B%2B-or-rust-at-antier-4436674620",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Software Engineer",
       "company": "Microsoft",
       "location": "Bengaluru, Karnataka, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-microsoft-4431755425",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-microsoft-4447508995",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -234,33 +190,22 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer",
-      "company": "Cisco",
-      "location": "Bengaluru, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-cisco-4446392506",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer, Backend",
-      "company": "DoorDash",
-      "location": "Pune/Pimpri-Chinchwad Area",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-backend-at-doordash-4084261319",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Software Engineer I, ITC",
       "company": "Nike",
       "location": "Karnataka, India",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/software-engineer-i-itc-at-nike-4447531917",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Aditya Birla Capital",
+      "location": "Maharashtra, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-aditya-birla-capital-4416067484",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -278,11 +223,44 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Java Software Engineer",
+      "company": "Deloitte",
+      "location": "Pune District, Maharashtra, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/java-software-engineer-at-deloitte-4445573823",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer, Backend",
+      "company": "DoorDash",
+      "location": "Pune/Pimpri-Chinchwad Area",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-backend-at-doordash-4084261319",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Software Engineer 2- frontend",
       "company": "Intuit",
       "location": "Bengaluru, Karnataka, India",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/software-engineer-2-frontend-at-intuit-4443124147",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Cisco",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-cisco-4446392506",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
