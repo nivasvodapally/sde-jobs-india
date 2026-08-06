@@ -1,6 +1,6 @@
 {
-  "updated": "05 Aug 2026, 04:41 AM IST",
-  "count": 30,
+  "updated": "06 Aug 2026, 04:41 AM IST",
+  "count": 31,
   "jobs": [
     {
       "title": "Software Development Engineer",
@@ -201,17 +201,6 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engr II",
-      "company": "Honeywell Technologies",
-      "location": "Bengaluru, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engr-ii-at-honeywell-technologies-4446357014",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Software Developer",
       "company": "Adani Enterprises Limited",
       "location": "Ahmedabad, Gujarat, India",
@@ -227,7 +216,7 @@
       "company": "Systweak Software",
       "location": "Jaipur, Rajasthan, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/programmer-at-systweak-software-4446987346",
+      "url": "https://in.linkedin.com/jobs/view/programmer-at-systweak-software-4449197085",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -245,88 +234,110 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer",
-      "company": "Microsoft",
-      "location": "Bengaluru, Karnataka, India",
+      "title": "SDE II - Backend",
+      "company": "Syfe",
+      "location": "Gurgaon, Haryana, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-microsoft-4431755425",
+      "url": "https://in.linkedin.com/jobs/view/sde-ii-backend-at-syfe-4406862229",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Backend Developer",
+      "company": "BUSINESS PROCESS MANAGEMENT",
+      "location": "Mumbai, Maharashtra, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/backend-developer-at-business-process-management-4442501647",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer, Full Stack",
-      "company": "Google",
-      "location": "Bengaluru, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-full-stack-at-google-4441354802",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer",
-      "company": "Cisco",
-      "location": "Bengaluru, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-cisco-4446392506",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer, Backend",
-      "company": "DoorDash",
-      "location": "Pune/Pimpri-Chinchwad Area",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-backend-at-doordash-4084261319",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer 2- frontend",
-      "company": "Intuit",
-      "location": "Bengaluru, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-2-frontend-at-intuit-4443124147",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer",
-      "company": "Aditya Birla Capital",
-      "location": "Maharashtra, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-aditya-birla-capital-4416067484",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "SDE-1",
+      "title": "SDE2, CHEX",
       "company": "Amazon",
-      "location": "Hyderabad, Telangana, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/sde-1-at-amazon-4444999888",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "SDE",
-      "company": "Larsen & Toubro",
       "location": "Delhi, Delhi, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/sde-at-larsen-toubro-4441985290",
+      "url": "https://in.linkedin.com/jobs/view/sde2-chex-at-amazon-4443042786",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "SDE2",
+      "company": "Amazon",
+      "location": "Gurugram, Haryana, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/sde2-at-amazon-4443042437",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Developer",
+      "company": "CBX1",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-developer-at-cbx1-4137534021",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Developer 2",
+      "company": "SOTI",
+      "location": "Kochi, Kerala, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-developer-2-at-soti-4423338767",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Flash AI",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-flash-ai-4339495942",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer II",
+      "company": "Appian",
+      "location": "Chennai, Tamil Nadu, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-appian-4435520441",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Development Engineer 4",
+      "company": "Adobe",
+      "location": "Bengaluru East, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-4-at-adobe-4447908544",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineering",
+      "company": "Microsoft",
+      "location": "Hyderabad, Telangana, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineering-at-microsoft-4444712243",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
