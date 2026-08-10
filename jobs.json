@@ -1,5 +1,5 @@
 {
-  "updated": "09 Aug 2026, 03:15 AM IST",
+  "updated": "10 Aug 2026, 03:25 AM IST",
   "count": 29,
   "jobs": [
     {
@@ -256,28 +256,6 @@
       "source": "LinkedIn"
     },
     {
-      "title": "SDE II - Backend",
-      "company": "Syfe",
-      "location": "Gurgaon, Haryana, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/sde-ii-backend-at-syfe-4406862229",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Backend Developer",
-      "company": "BUSINESS PROCESS MANAGEMENT",
-      "location": "Mumbai, Maharashtra, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/backend-developer-at-business-process-management-4442501647",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "SDE2, CHEX",
       "company": "Amazon",
       "location": "Delhi, Delhi, India",
@@ -305,6 +283,28 @@
       "location": "Bengaluru, Karnataka, India",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/software-developer-at-cbx1-4137534021",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Developer 2",
+      "company": "SOTI",
+      "location": "Kochi, Kerala, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-developer-2-at-soti-4423338767",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Flash AI",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-flash-ai-4339495942",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
