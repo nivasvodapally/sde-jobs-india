@@ -1,6 +1,6 @@
 {
-  "updated": "10 Aug 2026, 03:25 AM IST",
-  "count": 29,
+  "updated": "11 Aug 2026, 03:17 AM IST",
+  "count": 30,
   "jobs": [
     {
       "title": "Software Development Engineer",
@@ -190,11 +190,33 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Software Engineer (Middle)",
+      "company": "Devolity",
+      "location": "Delhi, Delhi, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-middle-at-devolity-4404850484",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Software Engineer 2",
       "company": "Stage 2 Capital",
       "location": "Hyderabad, Telangana, India",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/software-engineer-2-at-stage-2-capital-4450679704",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Custom Software Engineer",
+      "company": "Accenture services Pvt Ltd",
+      "location": "Gurugram, Haryana, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-services-pvt-ltd-4451459179",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -234,22 +256,22 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Development Engineer",
-      "company": "Clearwater Analytics",
-      "location": "Mumbai Metropolitan Region",
+      "title": "Backend Developer",
+      "company": "BUSINESS PROCESS MANAGEMENT",
+      "location": "Mumbai, Maharashtra, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-at-clearwater-analytics-4450330786",
+      "url": "https://in.linkedin.com/jobs/view/backend-developer-at-business-process-management-4442501647",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer 2",
-      "company": "ModMed India",
-      "location": "Hyderabad, Telangana, India",
+      "title": "Software Development Engineer",
+      "company": "Clearwater Analytics",
+      "location": "Mumbai Metropolitan Region",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-2-at-modmed-india-4449395417",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-at-clearwater-analytics-4450330786",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -294,17 +316,6 @@
       "location": "Kochi, Kerala, India",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/software-developer-2-at-soti-4423338767",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer",
-      "company": "Flash AI",
-      "location": "Bengaluru, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-flash-ai-4339495942",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
