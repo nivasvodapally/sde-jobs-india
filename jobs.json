@@ -1,6 +1,6 @@
 {
-  "updated": "11 Aug 2026, 03:17 AM IST",
-  "count": 30,
+  "updated": "12 Aug 2026, 03:36 AM IST",
+  "count": 36,
   "jobs": [
     {
       "title": "Software Development Engineer",
@@ -190,33 +190,11 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer (Middle)",
-      "company": "Devolity",
-      "location": "Delhi, Delhi, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-middle-at-devolity-4404850484",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Software Engineer 2",
       "company": "Stage 2 Capital",
       "location": "Hyderabad, Telangana, India",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/software-engineer-2-at-stage-2-capital-4450679704",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Custom Software Engineer",
-      "company": "Accenture services Pvt Ltd",
-      "location": "Gurugram, Haryana, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-services-pvt-ltd-4451459179",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -245,22 +223,11 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Developer",
-      "company": "Adani Enterprises Limited",
-      "location": "Ahmedabad, Gujarat, India",
+      "title": "Software Engr II",
+      "company": "Honeywell Technologies",
+      "location": "Bengaluru, Karnataka, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-developer-at-adani-enterprises-limited-4440010830",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Backend Developer",
-      "company": "BUSINESS PROCESS MANAGEMENT",
-      "location": "Mumbai, Maharashtra, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/backend-developer-at-business-process-management-4442501647",
+      "url": "https://in.linkedin.com/jobs/view/software-engr-ii-at-honeywell-technologies-4452434812",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -272,6 +239,28 @@
       "location": "Mumbai Metropolitan Region",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/software-development-engineer-at-clearwater-analytics-4450330786",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer 2",
+      "company": "ModMed India",
+      "location": "Hyderabad, Telangana, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-2-at-modmed-india-4449395417",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Backend Developer",
+      "company": "BUSINESS PROCESS MANAGEMENT",
+      "location": "Mumbai, Maharashtra, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/backend-developer-at-business-process-management-4442501647",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -311,24 +300,101 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Developer 2",
-      "company": "SOTI",
-      "location": "Kochi, Kerala, India",
+      "title": "Software Dev Engineer II, Alexa Connections",
+      "company": "Amazon",
+      "location": "Chennai, Tamil Nadu, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-developer-2-at-soti-4423338767",
+      "url": "https://in.linkedin.com/jobs/view/software-dev-engineer-ii-alexa-connections-at-amazon-4443055023",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
       "source": "LinkedIn"
     },
     {
-      "title": "Software Development Engineer 4",
-      "company": "Adobe",
-      "location": "Bengaluru East, Karnataka, India",
+      "title": "Software Development Engineer - Prime Video Linear, Prime Video",
+      "company": "Amazon",
+      "location": "Bengaluru, Karnataka, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-4-at-adobe-4447908544",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-prime-video-linear-prime-video-at-amazon-4451537075",
       "posted": "Recently",
       "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer II",
+      "company": "Mastercard",
+      "location": "Pune Division, Maharashtra, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-mastercard-4446661691",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Addepar",
+      "location": "Pune District, Maharashtra, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-addepar-4451526400",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Application Software Engineer 2",
+      "company": "Oracle",
+      "location": "Trivandrum, Kerala, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/application-software-engineer-2-at-oracle-4445037375",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "SENIOR, SOFTWARE ENGINEER",
+      "company": "Walmart Global Tech India",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-walmart-global-tech-india-4402875560",
+      "posted": "Recently",
+      "level": "senior",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer III -Java FullStack",
+      "company": "JPMorganChase",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-fullstack-at-jpmorganchase-4444740048",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Bajaj Finserv",
+      "location": "Pune Division, Maharashtra, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-bajaj-finserv-4450604961",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Senior Developer",
+      "company": "IDFC FIRST Bank",
+      "location": "Chennai, Tamil Nadu, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/senior-developer-at-idfc-first-bank-4448561376",
+      "posted": "Recently",
+      "level": "senior",
       "type": "Full-time",
       "source": "LinkedIn"
     }
