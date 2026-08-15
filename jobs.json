@@ -1,6 +1,6 @@
 {
-  "updated": "14 Aug 2026, 03:37 AM IST",
-  "count": 31,
+  "updated": "15 Aug 2026, 02:31 AM IST",
+  "count": 29,
   "jobs": [
     {
       "title": "Software Development Engineer",
@@ -170,9 +170,31 @@
     {
       "title": "Custom Software Engineer",
       "company": "Accenture in India",
-      "location": "Coimbatore, Tamil Nadu, India",
+      "location": "Ahmedabad, Gujarat, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448351956",
+      "url": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4454591390",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Developer III - Software Engineering",
+      "company": "UST",
+      "location": "Trivandrum, Kerala, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/developer-iii-software-engineering-at-ust-4448094541",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Developer 2",
+      "company": "Vena Solutions",
+      "location": "Indore, Madhya Pradesh, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-developer-2-at-vena-solutions-4413409230",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -212,6 +234,17 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Software Engineer 2",
+      "company": "ModMed India",
+      "location": "Hyderabad, Telangana, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-2-at-modmed-india-4449395417",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Software Developer",
       "company": "Marduk Technologies",
       "location": "Pocket 6 Sector 21, Delhi, India",
@@ -223,55 +256,22 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Developer",
-      "company": "Soft Solutions",
-      "location": "Greater Lucknow Area",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-developer-at-soft-solutions-4306120377",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Backend Systems Engineer",
-      "company": "Ur Technology and Computers",
-      "location": "Udaipur, Rajasthan, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/backend-systems-engineer-at-ur-technology-and-computers-4439519806",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Developer Job Vacancy in Kohima Nagaland",
-      "company": "YouthNet",
-      "location": "Kohima, Nagaland, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-developer-job-vacancy-in-kohima-nagaland-at-youthnet-4247411794",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer II",
-      "company": "Appian",
-      "location": "Chennai, Tamil Nadu, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-appian-4435520441",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Backend Developer",
       "company": "BUSINESS PROCESS MANAGEMENT",
       "location": "Mumbai, Maharashtra, India",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/backend-developer-at-business-process-management-4442501647",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Scoutit India",
+      "location": "Gurugram, Haryana, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-india-4453570257",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -300,33 +300,11 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Developer 2",
-      "company": "SOTI",
-      "location": "Kochi, Kerala, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-developer-2-at-soti-4423338767",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "SDE III",
-      "company": "HuntingCube",
-      "location": "Dehradun, Uttarakhand, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/sde-iii-at-huntingcube-4453340193",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer",
-      "company": "Flash AI",
+      "title": "Software Developer",
+      "company": "CBX1",
       "location": "Bengaluru, Karnataka, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-flash-ai-4339495942",
+      "url": "https://in.linkedin.com/jobs/view/software-developer-at-cbx1-4137534021",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
