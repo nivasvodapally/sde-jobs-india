@@ -1,6 +1,6 @@
 {
-  "updated": "15 Aug 2026, 02:31 AM IST",
-  "count": 29,
+  "updated": "16 Aug 2026, 02:40 AM IST",
+  "count": 32,
   "jobs": [
     {
       "title": "Software Development Engineer",
@@ -179,24 +179,13 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Developer III - Software Engineering",
-      "company": "UST",
-      "location": "Trivandrum, Kerala, India",
+      "title": "Software Engineer (Middle)",
+      "company": "Devolity",
+      "location": "Delhi, Delhi, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/developer-iii-software-engineering-at-ust-4448094541",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-middle-at-devolity-4404850484",
       "posted": "Recently",
       "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Developer 2",
-      "company": "Vena Solutions",
-      "location": "Indore, Madhya Pradesh, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-developer-2-at-vena-solutions-4413409230",
-      "posted": "Recently",
-      "level": "entry",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -223,22 +212,22 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Senior Backend Engineer \u2014 Node.js / TypeScript",
+      "company": "Propeter",
+      "location": "Itanagar, Arunachal Pradesh, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/senior-backend-engineer-%E2%80%94-node-js-typescript-at-propeter-4449484643",
+      "posted": "Recently",
+      "level": "senior",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Software Development Engineer",
       "company": "Clearwater Analytics",
       "location": "Mumbai Metropolitan Region",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/software-development-engineer-at-clearwater-analytics-4450330786",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer 2",
-      "company": "ModMed India",
-      "location": "Hyderabad, Telangana, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-2-at-modmed-india-4449395417",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -252,6 +241,39 @@
       "url": "https://in.linkedin.com/jobs/view/software-developer-at-marduk-technologies-4449817611",
       "posted": "Recently",
       "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Developer",
+      "company": "Soft Solutions",
+      "location": "Greater Lucknow Area",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-developer-at-soft-solutions-4306120377",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Backend Systems Engineer",
+      "company": "Ur Technology and Computers",
+      "location": "Udaipur, Rajasthan, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/backend-systems-engineer-at-ur-technology-and-computers-4439519806",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Developer III - Software Engineering",
+      "company": "UST",
+      "location": "Trivandrum, Kerala, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/developer-iii-software-engineering-at-ust-4448094541",
+      "posted": "Recently",
+      "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -271,7 +293,7 @@
       "company": "Scoutit India",
       "location": "Gurugram, Haryana, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-india-4453570257",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-india-4453904910",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -316,6 +338,17 @@
       "location": "Bengaluru East, Karnataka, India",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/software-development-engineer-4-at-adobe-4447908544",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Developer 2",
+      "company": "Vena Solutions",
+      "location": "Indore, Madhya Pradesh, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-developer-2-at-vena-solutions-4413409230",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
