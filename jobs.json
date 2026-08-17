@@ -1,5 +1,5 @@
 {
-  "updated": "16 Aug 2026, 02:40 AM IST",
+  "updated": "17 Aug 2026, 02:39 AM IST",
   "count": 32,
   "jobs": [
     {
@@ -289,17 +289,6 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer",
-      "company": "Scoutit India",
-      "location": "Gurugram, Haryana, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-india-4453904910",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "SDE2, CHEX",
       "company": "Amazon",
       "location": "Delhi, Delhi, India",
@@ -327,6 +316,17 @@
       "location": "Bengaluru, Karnataka, India",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/software-developer-at-cbx1-4137534021",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Scoutit India",
+      "location": "Gurugram, Haryana, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-india-4453969708",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
