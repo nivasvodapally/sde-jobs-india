@@ -1,6 +1,6 @@
 {
-  "updated": "24 Aug 2026, 02:43 AM IST",
-  "count": 31,
+  "updated": "25 Aug 2026, 02:37 AM IST",
+  "count": 35,
   "jobs": [
     {
       "title": "Software Development Engineer",
@@ -201,6 +201,17 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Software Engineer (Middle)",
+      "company": "Devolity",
+      "location": "Delhi, Delhi, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-middle-at-devolity-4404850484",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Software Engineer II",
       "company": "PAR Technology",
       "location": "Jaipur, Rajasthan, India",
@@ -223,44 +234,11 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Developer 2",
-      "company": "Vena Solutions",
-      "location": "Indore, Madhya Pradesh, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-developer-2-at-vena-solutions-4413409230",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Software Engineer (C, C++, or Rust)",
       "company": "Antier",
       "location": "Sahibzada Ajit Singh Nagar, Punjab, India",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/software-engineer-c-c%2B%2B-or-rust-at-antier-4436674620",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer 2",
-      "company": "ModMed India",
-      "location": "Hyderabad, Telangana, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-2-at-modmed-india-4449395417",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Backend Developer",
-      "company": "BUSINESS PROCESS MANAGEMENT",
-      "location": "Mumbai, Maharashtra, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/backend-developer-at-business-process-management-4442501647",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -278,44 +256,99 @@
       "source": "LinkedIn"
     },
     {
-      "title": "SDE2, CHEX",
-      "company": "Amazon",
-      "location": "Delhi, Delhi, India",
+      "title": "Software Engineer",
+      "company": "Addepar",
+      "location": "Pune District, Maharashtra, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/sde2-chex-at-amazon-4455913045",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "SDE2",
-      "company": "Amazon",
-      "location": "Gurugram, Haryana, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/sde2-at-amazon-4455900574",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Developer",
-      "company": "CBX1",
-      "location": "Bengaluru, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-developer-at-cbx1-4137534021",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-addepar-4451526400",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
       "source": "LinkedIn"
     },
     {
-      "title": "Software Developer 2",
-      "company": "SOTI",
-      "location": "Kochi, Kerala, India",
+      "title": "Software Engineer(3-5 years) Backend",
+      "company": "PhonePe",
+      "location": "Bengaluru, Karnataka, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-developer-2-at-soti-4423338767",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-3-5-years-backend-at-phonepe-4458163338",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Application Software Engineer 2",
+      "company": "Oracle",
+      "location": "Trivandrum, Kerala, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/application-software-engineer-2-at-oracle-4445037375",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer (Java)",
+      "company": "Veradigm\u00ae",
+      "location": "Pune Division, Maharashtra, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-java-at-veradigm%C2%AE-4420982880",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Dev Engineer II, Alexa Connections",
+      "company": "Amazon",
+      "location": "Chennai, Tamil Nadu, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-dev-engineer-ii-alexa-connections-at-amazon-4455902670",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Development Engineer II, Amazon Smart Vehicles",
+      "company": "Amazon",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-amazon-smart-vehicles-at-amazon-4455903133",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Senior Software Engineer II- Nodejs",
+      "company": "Snapmint",
+      "location": "Gurugram, Haryana, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-ii-nodejs-at-snapmint-4455279811",
+      "posted": "Recently",
+      "level": "senior",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Developer (Java)",
+      "company": "Charles Schwab India",
+      "location": "Hyderabad, Telangana, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-developer-java-at-charles-schwab-india-4443274661",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Java Developer",
+      "company": "BNP Paribas",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/java-developer-at-bnp-paribas-4434479813",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -329,6 +362,17 @@
       "url": "https://in.linkedin.com/jobs/view/software-engineer-at-microsoft-4456726250",
       "posted": "Recently",
       "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "SDE2",
+      "company": "Amazon",
+      "location": "Hyderabad, Telangana, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/sde2-at-amazon-4455916291",
+      "posted": "Recently",
+      "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     },
