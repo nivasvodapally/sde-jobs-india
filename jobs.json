@@ -1,6 +1,6 @@
 {
-  "updated": "27 Aug 2026, 11:45 AM IST",
-  "count": 35,
+  "updated": "28 Aug 2026, 01:08 PM IST",
+  "count": 30,
   "jobs": [
     {
       "title": "Software Development Engineer",
@@ -190,11 +190,33 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Fullstack Developer",
+      "company": "SAS",
+      "location": "Pune Division, Maharashtra, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/fullstack-developer-at-sas-4459849305",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Software Development Engineer II, Amazon Smart Vehicles",
       "company": "Amazon",
       "location": "Bengaluru, Karnataka, India",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-amazon-smart-vehicles-at-amazon-4455903133",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer - Java Springboot with Gen AI",
+      "company": "Wells Fargo",
+      "location": "Greater Hyderabad Area",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-java-springboot-with-gen-ai-at-wells-fargo-4460306794",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -208,17 +230,6 @@
       "url": "https://in.linkedin.com/jobs/view/application-software-engineer-2-at-oracle-4445037375",
       "posted": "Recently",
       "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer II, Java ,Platform engineering",
-      "company": "JPMorganChase",
-      "location": "Hyderabad, Telangana, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-java-platform-engineering-at-jpmorganchase-4459025864",
-      "posted": "Recently",
-      "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -256,17 +267,6 @@
       "source": "LinkedIn"
     },
     {
-      "title": "SOFTWARE ENGINEER III",
-      "company": "Walmart Global Tech India",
-      "location": "Bengaluru, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-at-walmart-global-tech-india-4405182284",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Software Engineer (Java)",
       "company": "Veradigm\u00ae",
       "location": "Pune Division, Maharashtra, India",
@@ -289,101 +289,46 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer II",
-      "company": "Mastercard",
-      "location": "Pune Division, Maharashtra, India",
+      "title": "Software Engineer III - Java Full Stack",
+      "company": "JPMorganChase",
+      "location": "Bengaluru, Karnataka, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-mastercard-4440190381",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-full-stack-at-jpmorganchase-4460117168",
       "posted": "Recently",
       "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     },
     {
-      "title": "Custom Software Engineer",
-      "company": "Accenture in India",
-      "location": "Ahmedabad, Gujarat, India",
+      "title": "Senior Software Engineer - Backend (Python)",
+      "company": "PayPal",
+      "location": "Chennai, Tamil Nadu, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4454591390",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-backend-python-at-paypal-4460307733",
       "posted": "Recently",
-      "level": "entry",
+      "level": "senior",
       "type": "Full-time",
       "source": "LinkedIn"
     },
     {
-      "title": "Developer III - Software Engineering",
-      "company": "UST",
-      "location": "Trivandrum, Kerala, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/developer-iii-software-engineering-at-ust-4448094541",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer",
-      "company": "The Access Group",
-      "location": "Madanpur, Bihar, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-the-access-group-4454237949",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "SDE2",
+      "title": "Software Development Engineer - Prime Video Linear, Prime Video",
       "company": "Amazon",
-      "location": "Hyderabad, Telangana, India",
+      "location": "Bengaluru, Karnataka, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/sde2-at-amazon-4455916291",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-prime-video-linear-prime-video-at-amazon-4455796248",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Fullstack Java With Angular-Software Engineer II",
+      "company": "Deloitte",
+      "location": "Chennai, Tamil Nadu, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/fullstack-java-with-angular-software-engineer-ii-at-deloitte-4424676269",
       "posted": "Recently",
       "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer (Backend Engineer) - Bengaluru",
-      "company": "Omnissa",
-      "location": "Chakdaha, West Bengal, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-backend-engineer-bengaluru-at-omnissa-4458380156",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Development Engineer",
-      "company": "Wipro",
-      "location": "Indore, Madhya Pradesh, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-at-wipro-4457303459",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Development Engineer 4",
-      "company": "Adobe",
-      "location": "Bengaluru East, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-4-at-adobe-4447908544",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer - II",
-      "company": "Microsoft",
-      "location": "Hyderabad, Telangana, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-microsoft-4456726250",
-      "posted": "Recently",
-      "level": "entry",
       "type": "Full-time",
       "source": "LinkedIn"
     }
