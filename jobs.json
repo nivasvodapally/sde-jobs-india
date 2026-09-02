@@ -1,6 +1,6 @@
 {
-  "updated": "01 Sep 2026, 06:30 AM IST",
-  "count": 35,
+  "updated": "02 Sep 2026, 06:09 AM IST",
+  "count": 36,
   "jobs": [
     {
       "title": "Software Development Engineer",
@@ -223,6 +223,17 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Backend Engineer",
+      "company": "droplet.ink",
+      "location": "Kolkata, West Bengal, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/backend-engineer-at-droplet-ink-4459508144",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Software Engineer (C, C++, or Rust)",
       "company": "Antier",
       "location": "Sahibzada Ajit Singh Nagar, Punjab, India",
@@ -234,35 +245,13 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Development Engineer",
-      "company": "Clearwater Analytics",
-      "location": "Mumbai Metropolitan Region",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-at-clearwater-analytics-4450330786",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Software Developer",
-      "company": "Marduk Technologies",
-      "location": "Pocket 6 Sector 21, Delhi, India",
+      "company": "Xerox",
+      "location": "Greater Kolkata Area",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-developer-at-marduk-technologies-4449817611",
+      "url": "https://in.linkedin.com/jobs/view/software-developer-at-xerox-4423923481",
       "posted": "Recently",
       "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Java Backend Developer with AWS (Software Engineer II)",
-      "company": "JPMorganChase",
-      "location": "Bengaluru, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/java-backend-developer-with-aws-software-engineer-ii-at-jpmorganchase-4461277872",
-      "posted": "Recently",
-      "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -300,17 +289,6 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer (Java)",
-      "company": "Veradigm\u00ae",
-      "location": "Pune Division, Maharashtra, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-java-at-veradigm%C2%AE-4420982880",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Software Dev Engineer II, Alexa Connections",
       "company": "Amazon",
       "location": "Chennai, Tamil Nadu, India",
@@ -318,6 +296,17 @@
       "url": "https://in.linkedin.com/jobs/view/software-dev-engineer-ii-alexa-connections-at-amazon-4455902670",
       "posted": "Recently",
       "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer III - (Java/Cloud)",
+      "company": "JPMorganChase",
+      "location": "Hyderabad, Telangana, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-cloud-at-jpmorganchase-4455943853",
+      "posted": "Recently",
+      "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -355,6 +344,17 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Full Stack Developer Python/React (Software Engineer II)",
+      "company": "JPMorganChase",
+      "location": "Hyderabad, Telangana, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-python-react-software-engineer-ii-at-jpmorganchase-4459586860",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "SDE2",
       "company": "Amazon",
       "location": "Hyderabad, Telangana, India",
@@ -382,6 +382,17 @@
       "location": "Bengaluru East, Karnataka, India",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/software-development-engineer-4-at-adobe-4447908544",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer - II",
+      "company": "Microsoft",
+      "location": "Hyderabad, Telangana, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-microsoft-4456726250",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
