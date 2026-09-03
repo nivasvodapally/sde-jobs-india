@@ -1,6 +1,6 @@
 {
-  "updated": "02 Sep 2026, 06:09 AM IST",
-  "count": 36,
+  "updated": "03 Sep 2026, 06:07 AM IST",
+  "count": 40,
   "jobs": [
     {
       "title": "Software Development Engineer",
@@ -256,6 +256,149 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Software Engineer",
+      "company": "mailercloud",
+      "location": "Kozhikode, Kerala, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-mailercloud-4462169710",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Backend Developer",
+      "company": "BUSINESS PROCESS MANAGEMENT",
+      "location": "Mumbai, Maharashtra, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/backend-developer-at-business-process-management-4442501647",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Development Engineer",
+      "company": "Clearwater Analytics",
+      "location": "Mumbai Metropolitan Region",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-at-clearwater-analytics-4450330786",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "SDE2, CHEX",
+      "company": "Amazon",
+      "location": "Delhi, Delhi, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/sde2-chex-at-amazon-4455913045",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "SDE2",
+      "company": "Amazon",
+      "location": "Gurugram, Haryana, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/sde2-at-amazon-4455900574",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Developer",
+      "company": "CBX1",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-developer-at-cbx1-4137534021",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Developer 2",
+      "company": "SOTI",
+      "location": "Kochi, Kerala, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-developer-2-at-soti-4423338767",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Developer II - Software Engineering",
+      "company": "UST",
+      "location": "Trivandrum, Kerala, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/developer-ii-software-engineering-at-ust-4458082419",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer - Java backend Development",
+      "company": "Wells Fargo",
+      "location": "Greater Hyderabad Area",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-java-backend-development-at-wells-fargo-4462159479",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer III - Java AWS",
+      "company": "JPMorganChase",
+      "location": "Hyderabad, Telangana, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-at-jpmorganchase-4462155305",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Development Engineer II, Alexa Multimodal Initiatives, Alexa Devices",
+      "company": "Amazon",
+      "location": "Pune/Pimpri-Chinchwad Area",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-alexa-multimodal-initiatives-alexa-devices-at-amazon-4461727278",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer III - (Java/Cloud)",
+      "company": "JPMorganChase",
+      "location": "Hyderabad, Telangana, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-cloud-at-jpmorganchase-4455943853",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Dev Engineer II, Alexa Connections",
+      "company": "Amazon",
+      "location": "Chennai, Tamil Nadu, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-dev-engineer-ii-alexa-connections-at-amazon-4455902670",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Fullstack Developer",
       "company": "SAS",
       "location": "Pune Division, Maharashtra, India",
@@ -278,121 +421,22 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Senior Software Engineer II- Nodejs",
+      "company": "Snapmint",
+      "location": "Gurugram, Haryana, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-ii-nodejs-at-snapmint-4462156738",
+      "posted": "Recently",
+      "level": "senior",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Application Software Engineer 2",
       "company": "Oracle",
       "location": "Trivandrum, Kerala, India",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/application-software-engineer-2-at-oracle-4445037375",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Dev Engineer II, Alexa Connections",
-      "company": "Amazon",
-      "location": "Chennai, Tamil Nadu, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-dev-engineer-ii-alexa-connections-at-amazon-4455902670",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer III - (Java/Cloud)",
-      "company": "JPMorganChase",
-      "location": "Hyderabad, Telangana, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-cloud-at-jpmorganchase-4455943853",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Development Engineer II, Amazon Smart Vehicles",
-      "company": "Amazon",
-      "location": "Bengaluru, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-amazon-smart-vehicles-at-amazon-4455903133",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Java Developer",
-      "company": "BNP Paribas",
-      "location": "Bengaluru, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/java-developer-at-bnp-paribas-4434479813",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer II",
-      "company": "Mastercard",
-      "location": "Pune Division, Maharashtra, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-mastercard-4440190381",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Full Stack Developer Python/React (Software Engineer II)",
-      "company": "JPMorganChase",
-      "location": "Hyderabad, Telangana, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-python-react-software-engineer-ii-at-jpmorganchase-4459586860",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "SDE2",
-      "company": "Amazon",
-      "location": "Hyderabad, Telangana, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/sde2-at-amazon-4455916291",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer (Backend Engineer) - Bengaluru",
-      "company": "Omnissa",
-      "location": "Chakdaha, West Bengal, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-backend-engineer-bengaluru-at-omnissa-4458380156",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Development Engineer 4",
-      "company": "Adobe",
-      "location": "Bengaluru East, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-4-at-adobe-4447908544",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer - II",
-      "company": "Microsoft",
-      "location": "Hyderabad, Telangana, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-microsoft-4456726250",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
