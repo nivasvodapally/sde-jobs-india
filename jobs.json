@@ -1,6 +1,6 @@
 {
-  "updated": "07 Sep 2026, 06:24 AM IST",
-  "count": 36,
+  "updated": "08 Sep 2026, 06:13 AM IST",
+  "count": 39,
   "jobs": [
     {
       "title": "Software Development Engineer",
@@ -179,11 +179,11 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Developer III - Software Engineering",
+      "title": "Developer III - Software Engineering-Python Developer",
       "company": "UST",
       "location": "Trivandrum, Kerala, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/developer-iii-software-engineering-at-ust-4459926348",
+      "url": "https://in.linkedin.com/jobs/view/developer-iii-software-engineering-python-developer-at-ust-4459926348",
       "posted": "Recently",
       "level": "mid",
       "type": "Full-time",
@@ -278,6 +278,28 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Developer III - Software Engineering",
+      "company": "UST",
+      "location": "Trivandrum, Kerala, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/developer-iii-software-engineering-at-ust-4448094541",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Developer",
+      "company": "Appinventiv",
+      "location": "India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/developer-at-appinventiv-4461885302",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Backend Developer",
       "company": "BUSINESS PROCESS MANAGEMENT",
       "location": "Mumbai, Maharashtra, India",
@@ -344,57 +366,68 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Developer 2",
-      "company": "SOTI",
-      "location": "Kochi, Kerala, India",
+      "title": "Software Engineer",
+      "company": "The Walt Disney Company",
+      "location": "Bengaluru, Karnataka, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-developer-2-at-soti-4423338767",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-the-walt-disney-company-4463181858",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
       "source": "LinkedIn"
     },
     {
-      "title": "Software Development Engineer II, Alexa Multimodal Initiatives, Alexa Devices",
-      "company": "Amazon",
-      "location": "Pune/Pimpri-Chinchwad Area",
+      "title": "Software Engineer",
+      "company": "The Access Group",
+      "location": "Madanpur, Bihar, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-alexa-multimodal-initiatives-alexa-devices-at-amazon-4461727278",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-the-access-group-4454237949",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer III- Java FullStack",
-      "company": "JPMorganChase",
+      "title": "Software Engineer (Backend Engineer) - Bengaluru",
+      "company": "Omnissa",
+      "location": "Chakdaha, West Bengal, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-backend-engineer-bengaluru-at-omnissa-4458380156",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Development Engineer",
+      "company": "Wipro",
+      "location": "Indore, Madhya Pradesh, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-at-wipro-4457303459",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Development Engineer 4",
+      "company": "Adobe",
+      "location": "Bengaluru East, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-4-at-adobe-4447908544",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer - II",
+      "company": "Microsoft",
       "location": "Hyderabad, Telangana, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-fullstack-at-jpmorganchase-4460791791",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-microsoft-4456726250",
       "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Senior Software Engineer II- Nodejs",
-      "company": "Snapmint",
-      "location": "Gurugram, Haryana, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-ii-nodejs-at-snapmint-4462156738",
-      "posted": "Recently",
-      "level": "senior",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer II",
-      "company": "Mastercard",
-      "location": "Pune Division, Maharashtra, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-mastercard-4440190381",
-      "posted": "Recently",
-      "level": "mid",
+      "level": "entry",
       "type": "Full-time",
       "source": "LinkedIn"
     }
