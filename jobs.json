@@ -1,5 +1,5 @@
 {
-  "updated": "12 Sep 2026, 06:08 AM IST",
+  "updated": "13 Sep 2026, 06:31 AM IST",
   "count": 33,
   "jobs": [
     {
@@ -179,28 +179,6 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer II - Java , AWS",
-      "company": "JPMorganChase",
-      "location": "Hyderabad, Telangana, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-java-aws-at-jpmorganchase-4466311770",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Developer III - Software Engineering-Python Developer",
-      "company": "UST",
-      "location": "Trivandrum, Kerala, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/developer-iii-software-engineering-python-developer-at-ust-4459926348",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Software Development Engineer II, Amazon Smart Vehicles",
       "company": "Amazon",
       "location": "Bengaluru, Karnataka, India",
@@ -219,17 +197,6 @@
       "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-devices-india-at-jumpcloud-4463035810",
       "posted": "Recently",
       "level": "senior",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Java Backend Developer with SQL and AWS (Software Engineer II)",
-      "company": "JPMorganChase",
-      "location": "Mumbai, Maharashtra, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/java-backend-developer-with-sql-and-aws-software-engineer-ii-at-jpmorganchase-4466436329",
-      "posted": "Recently",
-      "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -278,6 +245,39 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Software Engineer III - Java, AWS",
+      "company": "JPMorganChase",
+      "location": "Hyderabad, Telangana, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-at-jpmorganchase-4466436325",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Developer III - Software Engineering",
+      "company": "UST",
+      "location": "Hyderabad, Telangana, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/developer-iii-software-engineering-at-ust-4462520665",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer (Java)",
+      "company": "WebEngage",
+      "location": "Mumbai, Maharashtra, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-java-at-webengage-4261040176",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Senior Software Engineer",
       "company": "Optum India",
       "location": "Gurgaon, Haryana, India",
@@ -311,17 +311,6 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Developer III - Software Engineering",
-      "company": "UST",
-      "location": "Hyderabad, Telangana, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/developer-iii-software-engineering-at-ust-4462520665",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Java Developer",
       "company": "Synechron",
       "location": "Bengaluru East, Karnataka, India",
@@ -329,6 +318,17 @@
       "url": "https://in.linkedin.com/jobs/view/java-developer-at-synechron-4463864460",
       "posted": "Recently",
       "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Senior Software Engineer II- Nodejs",
+      "company": "Snapmint",
+      "location": "Gurugram, Haryana, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-ii-nodejs-at-snapmint-4462156738",
+      "posted": "Recently",
+      "level": "senior",
       "type": "Full-time",
       "source": "LinkedIn"
     },
