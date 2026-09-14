@@ -1,6 +1,6 @@
 {
-  "updated": "13 Sep 2026, 06:31 AM IST",
-  "count": 33,
+  "updated": "14 Sep 2026, 06:41 AM IST",
+  "count": 32,
   "jobs": [
     {
       "title": "Software Development Engineer",
@@ -201,6 +201,17 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Application Software Engineer 2",
+      "company": "Oracle",
+      "location": "Trivandrum, Kerala, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/application-software-engineer-2-at-oracle-4445037375",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Software Engineer",
       "company": "Addepar",
       "location": "Pune District, Maharashtra, India",
@@ -267,17 +278,6 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer (Java)",
-      "company": "WebEngage",
-      "location": "Mumbai, Maharashtra, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-java-at-webengage-4261040176",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Senior Software Engineer",
       "company": "Optum India",
       "location": "Gurgaon, Haryana, India",
@@ -294,17 +294,6 @@
       "location": "Bengaluru North, Karnataka, India",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-fullstack-developer-at-au-small-finance-bank-4462635099",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer II",
-      "company": "Mastercard",
-      "location": "Pune Division, Maharashtra, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-mastercard-4463904204",
       "posted": "Recently",
       "level": "mid",
       "type": "Full-time",
@@ -355,11 +344,11 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer III - Java Fullstack",
+      "title": "Software Engineer II - Java FullStack, React and AWS",
       "company": "JPMorganChase",
-      "location": "Hyderabad, Telangana, India",
+      "location": "Mumbai, Maharashtra, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-fullstack-at-jpmorganchase-4466063549",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-java-fullstack-react-and-aws-at-jpmorganchase-4457515309",
       "posted": "Recently",
       "level": "mid",
       "type": "Full-time",
