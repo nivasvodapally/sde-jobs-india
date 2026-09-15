@@ -1,6 +1,6 @@
 {
-  "updated": "14 Sep 2026, 06:41 AM IST",
-  "count": 32,
+  "updated": "15 Sep 2026, 06:24 AM IST",
+  "count": 33,
   "jobs": [
     {
       "title": "Software Development Engineer",
@@ -201,17 +201,6 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Application Software Engineer 2",
-      "company": "Oracle",
-      "location": "Trivandrum, Kerala, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/application-software-engineer-2-at-oracle-4445037375",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Software Engineer",
       "company": "Addepar",
       "location": "Pune District, Maharashtra, India",
@@ -256,17 +245,6 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer III - Java, AWS",
-      "company": "JPMorganChase",
-      "location": "Hyderabad, Telangana, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-at-jpmorganchase-4466436325",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Developer III - Software Engineering",
       "company": "UST",
       "location": "Hyderabad, Telangana, India",
@@ -278,24 +256,24 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Senior Software Engineer",
-      "company": "Optum India",
-      "location": "Gurgaon, Haryana, India",
+      "title": "Software Engineer (Java)",
+      "company": "WebEngage",
+      "location": "Mumbai, Maharashtra, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-optum-india-4463586681",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-java-at-webengage-4261040176",
       "posted": "Recently",
-      "level": "senior",
+      "level": "entry",
       "type": "Full-time",
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer II - Fullstack Developer",
-      "company": "AU SMALL FINANCE BANK",
-      "location": "Bengaluru North, Karnataka, India",
+      "title": "SENIOR, SOFTWARE ENGINEER",
+      "company": "Walmart Global Tech India",
+      "location": "Bengaluru, Karnataka, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-fullstack-developer-at-au-small-finance-bank-4462635099",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-walmart-global-tech-india-4405135145",
       "posted": "Recently",
-      "level": "mid",
+      "level": "senior",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -318,6 +296,28 @@
       "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-ii-nodejs-at-snapmint-4462156738",
       "posted": "Recently",
       "level": "senior",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer - Java Developer",
+      "company": "SCIENTIFIC GAMES",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-java-developer-at-scientific-games-4462504590",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Java Developer",
+      "company": "BNP Paribas",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/java-developer-at-bnp-paribas-4434479813",
+      "posted": "Recently",
+      "level": "entry",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -349,6 +349,17 @@
       "location": "Mumbai, Maharashtra, India",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-java-fullstack-react-and-aws-at-jpmorganchase-4457515309",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer II",
+      "company": "Mastercard",
+      "location": "Pune Division, Maharashtra, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-mastercard-4463447285",
       "posted": "Recently",
       "level": "mid",
       "type": "Full-time",
