@@ -1,5 +1,5 @@
 {
-  "updated": "17 Sep 2026, 06:24 AM IST",
+  "updated": "18 Sep 2026, 06:16 AM IST",
   "count": 32,
   "jobs": [
     {
@@ -179,11 +179,33 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Software Engineer III - (Java, AWS)",
+      "company": "JPMorganChase",
+      "location": "Hyderabad, Telangana, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-at-jpmorganchase-4466641695",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer III- Java",
+      "company": "JPMorganChase",
+      "location": "Hyderabad, Telangana, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-at-jpmorganchase-4468800997",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Software Development Engineer II, Amazon Smart Vehicles",
       "company": "Amazon",
       "location": "Bengaluru, Karnataka, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-amazon-smart-vehicles-at-amazon-4455909619",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-amazon-smart-vehicles-at-amazon-4455795087",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -201,33 +223,11 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer II - Java",
-      "company": "JPMorganChase",
-      "location": "Mumbai, Maharashtra, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-java-at-jpmorganchase-4468234083",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer",
-      "company": "Addepar",
-      "location": "Pune District, Maharashtra, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-addepar-4451526400",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Software Engineer",
       "company": "Bajaj Finserv",
       "location": "Pune Division, Maharashtra, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-bajaj-finserv-4450604961",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-bajaj-finserv-4450627031",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
