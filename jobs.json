@@ -1,6 +1,6 @@
 {
-  "updated": "18 Sep 2026, 06:16 AM IST",
-  "count": 32,
+  "updated": "19 Sep 2026, 06:15 AM IST",
+  "count": 33,
   "jobs": [
     {
       "title": "Software Development Engineer",
@@ -190,17 +190,6 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer III- Java",
-      "company": "JPMorganChase",
-      "location": "Hyderabad, Telangana, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-at-jpmorganchase-4468800997",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Software Development Engineer II, Amazon Smart Vehicles",
       "company": "Amazon",
       "location": "Bengaluru, Karnataka, India",
@@ -219,6 +208,17 @@
       "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-devices-india-at-jumpcloud-4463035810",
       "posted": "Recently",
       "level": "senior",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Development Engineer 2",
+      "company": "Comcast",
+      "location": "Chennai, Tamil Nadu, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/development-engineer-2-at-comcast-4468011554",
+      "posted": "Recently",
+      "level": "entry",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -318,6 +318,17 @@
       "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-alexa-multimodal-initiatives-alexa-devices-at-amazon-4461727278",
       "posted": "Recently",
       "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer III - Java Full Stack",
+      "company": "JPMorganChase",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-full-stack-at-jpmorganchase-4469239324",
+      "posted": "Recently",
+      "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     },
