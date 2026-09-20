@@ -1,6 +1,6 @@
 {
-  "updated": "19 Sep 2026, 06:15 AM IST",
-  "count": 33,
+  "updated": "20 Sep 2026, 06:38 AM IST",
+  "count": 32,
   "jobs": [
     {
       "title": "Software Development Engineer",
@@ -179,17 +179,6 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer III - (Java, AWS)",
-      "company": "JPMorganChase",
-      "location": "Hyderabad, Telangana, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-at-jpmorganchase-4466641695",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Software Development Engineer II, Amazon Smart Vehicles",
       "company": "Amazon",
       "location": "Bengaluru, Karnataka, India",
@@ -212,13 +201,13 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Development Engineer 2",
-      "company": "Comcast",
-      "location": "Chennai, Tamil Nadu, India",
+      "title": "Software Engineer III - Java Full Stack",
+      "company": "JPMorganChase",
+      "location": "Bengaluru, Karnataka, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/development-engineer-2-at-comcast-4468011554",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-full-stack-at-jpmorganchase-4469239324",
       "posted": "Recently",
-      "level": "entry",
+      "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -227,7 +216,7 @@
       "company": "Bajaj Finserv",
       "location": "Pune Division, Maharashtra, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-bajaj-finserv-4450627031",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-bajaj-finserv-4450612638",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -278,6 +267,17 @@
       "source": "LinkedIn"
     },
     {
+      "title": "SENIOR, SOFTWARE ENGINEER",
+      "company": "Walmart Global Tech India",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-walmart-global-tech-india-4405135145",
+      "posted": "Recently",
+      "level": "senior",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Java Developer",
       "company": "Synechron",
       "location": "Bengaluru East, Karnataka, India",
@@ -311,6 +311,17 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Java Developer",
+      "company": "BNP Paribas",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/java-developer-at-bnp-paribas-4434479813",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Software Development Engineer II, Alexa Multimodal Initiatives, Alexa Devices",
       "company": "Amazon",
       "location": "Pune/Pimpri-Chinchwad Area",
@@ -318,17 +329,6 @@
       "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-alexa-multimodal-initiatives-alexa-devices-at-amazon-4461727278",
       "posted": "Recently",
       "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer III - Java Full Stack",
-      "company": "JPMorganChase",
-      "location": "Bengaluru, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-full-stack-at-jpmorganchase-4469239324",
-      "posted": "Recently",
-      "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -351,17 +351,6 @@
       "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-mastercard-4440190381",
       "posted": "Recently",
       "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "SENIOR, SOFTWARE ENGINEER",
-      "company": "Walmart Global Tech India",
-      "location": "Bengaluru, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-walmart-global-tech-india-4402875560",
-      "posted": "Recently",
-      "level": "senior",
       "type": "Full-time",
       "source": "LinkedIn"
     }
