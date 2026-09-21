@@ -1,6 +1,6 @@
 {
-  "updated": "20 Sep 2026, 06:38 AM IST",
-  "count": 32,
+  "updated": "21 Sep 2026, 06:45 AM IST",
+  "count": 33,
   "jobs": [
     {
       "title": "Software Development Engineer",
@@ -201,13 +201,13 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer III - Java Full Stack",
-      "company": "JPMorganChase",
-      "location": "Bengaluru, Karnataka, India",
+      "title": "Python Backend Engineer",
+      "company": "Hitachi Solutions India Pvt Ltd",
+      "location": "Pune Division, Maharashtra, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-full-stack-at-jpmorganchase-4469239324",
+      "url": "https://in.linkedin.com/jobs/view/python-backend-engineer-at-hitachi-solutions-india-pvt-ltd-4468496305",
       "posted": "Recently",
-      "level": "mid",
+      "level": "entry",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -216,7 +216,7 @@
       "company": "Bajaj Finserv",
       "location": "Pune Division, Maharashtra, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-bajaj-finserv-4450612638",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-bajaj-finserv-4450627031",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -278,17 +278,6 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Java Developer",
-      "company": "Synechron",
-      "location": "Bengaluru East, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/java-developer-at-synechron-4463864460",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Senior Software Engineer II- Nodejs",
       "company": "Snapmint",
       "location": "Gurugram, Haryana, India",
@@ -296,6 +285,17 @@
       "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-ii-nodejs-at-snapmint-4462156738",
       "posted": "Recently",
       "level": "senior",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Java Developer",
+      "company": "Synechron",
+      "location": "Bengaluru East, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/java-developer-at-synechron-4463864460",
+      "posted": "Recently",
+      "level": "entry",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -316,6 +316,17 @@
       "location": "Bengaluru, Karnataka, India",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/java-developer-at-bnp-paribas-4434479813",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer - Python Fullstack",
+      "company": "HARMAN India",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-python-fullstack-at-harman-india-4421940715",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
