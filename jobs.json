@@ -1,6 +1,6 @@
 {
-  "updated": "22 Sep 2026, 06:32 AM IST",
-  "count": 35,
+  "updated": "23 Sep 2026, 06:17 AM IST",
+  "count": 34,
   "jobs": [
     {
       "title": "Software Development Engineer",
@@ -190,11 +190,11 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Development Engineer II, Alexa Multimodal Initiatives, Alexa Devices",
+      "title": "Software Development Engineer II, Amazon Smart Vehicles",
       "company": "Amazon",
-      "location": "Pune/Pimpri-Chinchwad Area",
+      "location": "Bengaluru, Karnataka, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-alexa-multimodal-initiatives-alexa-devices-at-amazon-4461727278",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-amazon-smart-vehicles-at-amazon-4455795087",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -203,20 +203,9 @@
     {
       "title": "Senior Software Engineer, Devices - India",
       "company": "JumpCloud",
-      "location": "Greater Delhi Area",
+      "location": "Mumbai Metropolitan Region",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-devices-india-at-jumpcloud-4463030820",
-      "posted": "Recently",
-      "level": "senior",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "SENIOR, SOFTWARE ENGINEER",
-      "company": "Walmart Global Tech India",
-      "location": "Bengaluru, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-walmart-global-tech-india-4402875560",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-devices-india-at-jumpcloud-4463035810",
       "posted": "Recently",
       "level": "senior",
       "type": "Full-time",
@@ -234,22 +223,11 @@
       "source": "LinkedIn"
     },
     {
-      "title": "(IND)Senior, Software Engineer",
-      "company": "Walmart Global Tech India",
-      "location": "Bengaluru, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/ind-senior-software-engineer-at-walmart-global-tech-india-4402451350",
-      "posted": "Recently",
-      "level": "senior",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Software Engineer",
       "company": "Bajaj Finserv",
       "location": "Pune Division, Maharashtra, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-bajaj-finserv-4450612638",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-bajaj-finserv-4450627031",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -267,6 +245,17 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Software Engr II",
+      "company": "Honeywell Technologies",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engr-ii-at-honeywell-technologies-4461028034",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Developer III - Software Engineering",
       "company": "UST",
       "location": "Hyderabad, Telangana, India",
@@ -278,11 +267,11 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Development Engineer II, Amazon Smart Vehicles",
-      "company": "Amazon",
-      "location": "Bengaluru, Karnataka, India",
+      "title": "Software Engineer (Java)",
+      "company": "WebEngage",
+      "location": "Mumbai, Maharashtra, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-amazon-smart-vehicles-at-amazon-4455795087",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-java-at-webengage-4261040176",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -311,17 +300,6 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Cloud Native Full stack Java Developer",
-      "company": "SAP Fioneer",
-      "location": "Pune Division, Maharashtra, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/cloud-native-full-stack-java-developer-at-sap-fioneer-4460980132",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Software Engineer - Java Developer",
       "company": "SCIENTIFIC GAMES",
       "location": "Bengaluru, Karnataka, India",
@@ -344,22 +322,33 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer II - Fullstack Developer",
-      "company": "AU SMALL FINANCE BANK",
-      "location": "Mumbai Metropolitan Region",
+      "title": "Software Engineer II",
+      "company": "Mastercard",
+      "location": "Pune Division, Maharashtra, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-fullstack-developer-at-au-small-finance-bank-4462635099",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-mastercard-4440190381",
       "posted": "Recently",
       "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     },
     {
-      "title": "Microservices JAVA with AWS-Software Engineer II",
-      "company": "Deloitte",
-      "location": "Pune Division, Maharashtra, India",
+      "title": "Software Development Engineer II, Alexa Multimodal Initiatives, Alexa Devices",
+      "company": "Amazon",
+      "location": "Pune/Pimpri-Chinchwad Area",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/microservices-java-with-aws-software-engineer-ii-at-deloitte-4464872269",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-alexa-multimodal-initiatives-alexa-devices-at-amazon-4461727278",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer II - Fullstack Developer",
+      "company": "AU SMALL FINANCE BANK",
+      "location": "Mumbai Metropolitan Region",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-fullstack-developer-at-au-small-finance-bank-4462635099",
       "posted": "Recently",
       "level": "mid",
       "type": "Full-time",
@@ -377,13 +366,13 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer II",
-      "company": "Mastercard",
-      "location": "Pune Division, Maharashtra, India",
+      "title": "SENIOR, SOFTWARE ENGINEER",
+      "company": "Walmart Global Tech India",
+      "location": "Bengaluru, Karnataka, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-mastercard-4440190381",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-walmart-global-tech-india-4402875560",
       "posted": "Recently",
-      "level": "mid",
+      "level": "senior",
       "type": "Full-time",
       "source": "LinkedIn"
     }
