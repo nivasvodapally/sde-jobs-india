@@ -1,5 +1,5 @@
 {
-  "updated": "23 Sep 2026, 06:17 AM IST",
+  "updated": "24 Sep 2026, 06:26 AM IST",
   "count": 34,
   "jobs": [
     {
@@ -179,22 +179,11 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer III - Java AWS",
-      "company": "JPMorganChase",
-      "location": "Bengaluru, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-at-jpmorganchase-4468162358",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Development Engineer II, Amazon Smart Vehicles",
+      "title": "Software Development Engineer II, Alexa Multimodal Initiatives, Alexa Devices",
       "company": "Amazon",
-      "location": "Bengaluru, Karnataka, India",
+      "location": "Pune/Pimpri-Chinchwad Area",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-amazon-smart-vehicles-at-amazon-4455795087",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-alexa-multimodal-initiatives-alexa-devices-at-amazon-4461727278",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -203,11 +192,22 @@
     {
       "title": "Senior Software Engineer, Devices - India",
       "company": "JumpCloud",
-      "location": "Mumbai Metropolitan Region",
+      "location": "Greater Delhi Area",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-devices-india-at-jumpcloud-4463035810",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-devices-india-at-jumpcloud-4463030820",
       "posted": "Recently",
       "level": "senior",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Java Backend Developer with SQL and AWS (Software Engineer II)",
+      "company": "JPMorganChase",
+      "location": "Mumbai, Maharashtra, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/java-backend-developer-with-sql-and-aws-software-engineer-ii-at-jpmorganchase-4466436329",
+      "posted": "Recently",
+      "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -217,17 +217,6 @@
       "location": "Pune Division, Maharashtra, India",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/python-backend-engineer-at-hitachi-solutions-india-pvt-ltd-4468496305",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer",
-      "company": "Bajaj Finserv",
-      "location": "Pune Division, Maharashtra, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-bajaj-finserv-4450627031",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -278,6 +267,28 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Software Engineer II",
+      "company": "Mastercard",
+      "location": "Pune Division, Maharashtra, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-mastercard-4468993665",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Development Engineer II, Amazon Smart Vehicles",
+      "company": "Amazon",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-amazon-smart-vehicles-at-amazon-4455795087",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Senior Software Engineer II- Nodejs",
       "company": "Snapmint",
       "location": "Gurugram, Haryana, India",
@@ -300,6 +311,17 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Cloud Native Full stack Java Developer",
+      "company": "SAP Fioneer",
+      "location": "Pune Division, Maharashtra, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/cloud-native-full-stack-java-developer-at-sap-fioneer-4460980132",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Software Engineer - Java Developer",
       "company": "SCIENTIFIC GAMES",
       "location": "Bengaluru, Karnataka, India",
@@ -311,44 +333,22 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer - Python Fullstack",
-      "company": "HARMAN India",
-      "location": "Bengaluru, Karnataka, India",
+      "title": "Software Engineer II - Fullstack Developer",
+      "company": "AU SMALL FINANCE BANK",
+      "location": "Mumbai Metropolitan Region",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-python-fullstack-at-harman-india-4421940715",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer II",
-      "company": "Mastercard",
-      "location": "Pune Division, Maharashtra, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-mastercard-4440190381",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-fullstack-developer-at-au-small-finance-bank-4462635099",
       "posted": "Recently",
       "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     },
     {
-      "title": "Software Development Engineer II, Alexa Multimodal Initiatives, Alexa Devices",
-      "company": "Amazon",
-      "location": "Pune/Pimpri-Chinchwad Area",
+      "title": "Microservices JAVA with AWS-Software Engineer II",
+      "company": "Deloitte",
+      "location": "Pune Division, Maharashtra, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-alexa-multimodal-initiatives-alexa-devices-at-amazon-4461727278",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer II - Fullstack Developer",
-      "company": "AU SMALL FINANCE BANK",
-      "location": "Mumbai Metropolitan Region",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-fullstack-developer-at-au-small-finance-bank-4462635099",
+      "url": "https://in.linkedin.com/jobs/view/microservices-java-with-aws-software-engineer-ii-at-deloitte-4464872269",
       "posted": "Recently",
       "level": "mid",
       "type": "Full-time",
