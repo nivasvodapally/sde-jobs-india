@@ -1,6 +1,6 @@
 {
-  "updated": "24 Sep 2026, 06:26 AM IST",
-  "count": 34,
+  "updated": "25 Sep 2026, 06:22 AM IST",
+  "count": 35,
   "jobs": [
     {
       "title": "Software Development Engineer",
@@ -172,18 +172,18 @@
       "company": "Amazon",
       "location": "Chennai, Tamil Nadu, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-dev-engineer-ii-alexa-connections-at-amazon-4455902670",
+      "url": "https://in.linkedin.com/jobs/view/software-dev-engineer-ii-alexa-connections-at-amazon-4455793886",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
       "source": "LinkedIn"
     },
     {
-      "title": "Software Development Engineer II, Alexa Multimodal Initiatives, Alexa Devices",
+      "title": "Software Development Engineer II, Amazon Smart Vehicles",
       "company": "Amazon",
-      "location": "Pune/Pimpri-Chinchwad Area",
+      "location": "Bengaluru, Karnataka, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-alexa-multimodal-initiatives-alexa-devices-at-amazon-4461727278",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-amazon-smart-vehicles-at-amazon-4455795087",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -201,17 +201,6 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Java Backend Developer with SQL and AWS (Software Engineer II)",
-      "company": "JPMorganChase",
-      "location": "Mumbai, Maharashtra, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/java-backend-developer-with-sql-and-aws-software-engineer-ii-at-jpmorganchase-4466436329",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Python Backend Engineer",
       "company": "Hitachi Solutions India Pvt Ltd",
       "location": "Pune Division, Maharashtra, India",
@@ -223,24 +212,24 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Developer (Java)",
-      "company": "Charles Schwab India",
-      "location": "Hyderabad, Telangana, India",
+      "title": "Java Full Stack Developer",
+      "company": "Siemens",
+      "location": "Pune Division, Maharashtra, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-developer-java-at-charles-schwab-india-4443274661",
+      "url": "https://in.linkedin.com/jobs/view/java-full-stack-developer-at-siemens-4469741637",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engr II",
-      "company": "Honeywell Technologies",
-      "location": "Bengaluru, Karnataka, India",
+      "title": "Software Engineer III - Java AWS, IVR Connect",
+      "company": "JPMorganChase",
+      "location": "Hyderabad, Telangana, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engr-ii-at-honeywell-technologies-4461028034",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-ivr-connect-at-jpmorganchase-4471679531",
       "posted": "Recently",
-      "level": "entry",
+      "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -256,11 +245,33 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer (Java)",
-      "company": "WebEngage",
-      "location": "Mumbai, Maharashtra, India",
+      "title": "Software Developer (Java)",
+      "company": "Charles Schwab India",
+      "location": "Hyderabad, Telangana, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-java-at-webengage-4261040176",
+      "url": "https://in.linkedin.com/jobs/view/software-developer-java-at-charles-schwab-india-4443274661",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer II - Java/AWS/Python",
+      "company": "JPMorganChase",
+      "location": "Noida, Uttar Pradesh, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-java-aws-python-at-jpmorganchase-4471841413",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Development Engineer II, Seller Partner Services Tech",
+      "company": "Amazon",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-seller-partner-services-tech-at-amazon-4471646111",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -274,17 +285,6 @@
       "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-mastercard-4468993665",
       "posted": "Recently",
       "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Development Engineer II, Amazon Smart Vehicles",
-      "company": "Amazon",
-      "location": "Bengaluru, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-amazon-smart-vehicles-at-amazon-4455795087",
-      "posted": "Recently",
-      "level": "entry",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -327,6 +327,17 @@
       "location": "Bengaluru, Karnataka, India",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/software-engineer-java-developer-at-scientific-games-4462504590",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Development Engineer II, Alexa Multimodal Initiatives, Alexa Devices",
+      "company": "Amazon",
+      "location": "Pune/Pimpri-Chinchwad Area",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-alexa-multimodal-initiatives-alexa-devices-at-amazon-4461727278",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
