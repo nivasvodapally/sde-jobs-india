@@ -1,6 +1,6 @@
 {
-  "updated": "25 Sep 2026, 06:22 AM IST",
-  "count": 35,
+  "updated": "26 Sep 2026, 06:22 AM IST",
+  "count": 33,
   "jobs": [
     {
       "title": "Software Development Engineer",
@@ -168,6 +168,17 @@
       "source": "Adobe Careers"
     },
     {
+      "title": "Senior Software Engineer",
+      "company": "Optum India",
+      "location": "Gurgaon, Haryana, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-optum-india-4472043246",
+      "posted": "Recently",
+      "level": "senior",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Software Dev Engineer II, Alexa Connections",
       "company": "Amazon",
       "location": "Chennai, Tamil Nadu, India",
@@ -179,11 +190,11 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Development Engineer II, Amazon Smart Vehicles",
+      "title": "Software Development Engineer II, Alexa Multimodal Initiatives, Alexa Devices",
       "company": "Amazon",
-      "location": "Bengaluru, Karnataka, India",
+      "location": "Pune/Pimpri-Chinchwad Area",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-amazon-smart-vehicles-at-amazon-4455795087",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-alexa-multimodal-initiatives-alexa-devices-at-amazon-4461727278",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -212,13 +223,13 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Java Full Stack Developer",
-      "company": "Siemens",
-      "location": "Pune Division, Maharashtra, India",
+      "title": "Software Engineer III - Java Fullstack",
+      "company": "JPMorganChase",
+      "location": "Hyderabad, Telangana, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/java-full-stack-developer-at-siemens-4469741637",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-fullstack-at-jpmorganchase-4472251194",
       "posted": "Recently",
-      "level": "entry",
+      "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -256,22 +267,22 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer II - Java/AWS/Python",
-      "company": "JPMorganChase",
-      "location": "Noida, Uttar Pradesh, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-java-aws-python-at-jpmorganchase-4471841413",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Software Development Engineer II, Seller Partner Services Tech",
       "company": "Amazon",
       "location": "Bengaluru, Karnataka, India",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-seller-partner-services-tech-at-amazon-4471646111",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Java Full Stack Developer",
+      "company": "Siemens",
+      "location": "Pune Division, Maharashtra, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/java-full-stack-developer-at-siemens-4469741637",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -289,13 +300,13 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Senior Software Engineer II- Nodejs",
-      "company": "Snapmint",
-      "location": "Gurugram, Haryana, India",
+      "title": "Software Development Engineer II, Amazon Smart Vehicles",
+      "company": "Amazon",
+      "location": "Bengaluru, Karnataka, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-ii-nodejs-at-snapmint-4462156738",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-amazon-smart-vehicles-at-amazon-4455795087",
       "posted": "Recently",
-      "level": "senior",
+      "level": "entry",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -311,33 +322,22 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Senior Software Engineer II- Nodejs",
+      "company": "Snapmint",
+      "location": "Gurugram, Haryana, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-ii-nodejs-at-snapmint-4462156738",
+      "posted": "Recently",
+      "level": "senior",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Cloud Native Full stack Java Developer",
       "company": "SAP Fioneer",
       "location": "Pune Division, Maharashtra, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/cloud-native-full-stack-java-developer-at-sap-fioneer-4460980132",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer - Java Developer",
-      "company": "SCIENTIFIC GAMES",
-      "location": "Bengaluru, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-java-developer-at-scientific-games-4462504590",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Development Engineer II, Alexa Multimodal Initiatives, Alexa Devices",
-      "company": "Amazon",
-      "location": "Pune/Pimpri-Chinchwad Area",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-alexa-multimodal-initiatives-alexa-devices-at-amazon-4461727278",
+      "url": "https://in.linkedin.com/jobs/view/cloud-native-full-stack-java-developer-at-sap-fioneer-4470092697",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -362,28 +362,6 @@
       "url": "https://in.linkedin.com/jobs/view/microservices-java-with-aws-software-engineer-ii-at-deloitte-4464872269",
       "posted": "Recently",
       "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Fullstack Java With Angular-Software Engineer II",
-      "company": "Deloitte",
-      "location": "Chennai, Tamil Nadu, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/fullstack-java-with-angular-software-engineer-ii-at-deloitte-4424676269",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "SENIOR, SOFTWARE ENGINEER",
-      "company": "Walmart Global Tech India",
-      "location": "Bengaluru, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-walmart-global-tech-india-4402875560",
-      "posted": "Recently",
-      "level": "senior",
       "type": "Full-time",
       "source": "LinkedIn"
     }
