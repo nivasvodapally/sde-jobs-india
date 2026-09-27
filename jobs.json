@@ -1,6 +1,6 @@
 {
-  "updated": "26 Sep 2026, 06:22 AM IST",
-  "count": 33,
+  "updated": "27 Sep 2026, 06:51 AM IST",
+  "count": 35,
   "jobs": [
     {
       "title": "Software Development Engineer",
@@ -168,17 +168,6 @@
       "source": "Adobe Careers"
     },
     {
-      "title": "Senior Software Engineer",
-      "company": "Optum India",
-      "location": "Gurgaon, Haryana, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-optum-india-4472043246",
-      "posted": "Recently",
-      "level": "senior",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Software Dev Engineer II, Alexa Connections",
       "company": "Amazon",
       "location": "Chennai, Tamil Nadu, India",
@@ -234,17 +223,6 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer III - Java AWS, IVR Connect",
-      "company": "JPMorganChase",
-      "location": "Hyderabad, Telangana, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-ivr-connect-at-jpmorganchase-4471679531",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Developer III - Software Engineering",
       "company": "UST",
       "location": "Hyderabad, Telangana, India",
@@ -261,6 +239,28 @@
       "location": "Hyderabad, Telangana, India",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/software-developer-java-at-charles-schwab-india-4443274661",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engr II",
+      "company": "Honeywell Technologies",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engr-ii-at-honeywell-technologies-4461028034",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer (Java)",
+      "company": "WebEngage",
+      "location": "Mumbai, Maharashtra, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-java-at-webengage-4261040176",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -344,6 +344,17 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Software Engineer - Java Developer",
+      "company": "SCIENTIFIC GAMES",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-java-developer-at-scientific-games-4462504590",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Software Engineer II - Fullstack Developer",
       "company": "AU SMALL FINANCE BANK",
       "location": "Mumbai Metropolitan Region",
@@ -360,6 +371,17 @@
       "location": "Pune Division, Maharashtra, India",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/microservices-java-with-aws-software-engineer-ii-at-deloitte-4464872269",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Fullstack Java With Angular-Software Engineer II",
+      "company": "Deloitte",
+      "location": "Chennai, Tamil Nadu, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/fullstack-java-with-angular-software-engineer-ii-at-deloitte-4424676269",
       "posted": "Recently",
       "level": "mid",
       "type": "Full-time",
