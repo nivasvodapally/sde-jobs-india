@@ -1,6 +1,6 @@
 {
-  "updated": "27 Sep 2026, 06:51 AM IST",
-  "count": 35,
+  "updated": "28 Sep 2026, 07:17 AM IST",
+  "count": 34,
   "jobs": [
     {
       "title": "Software Development Engineer",
@@ -205,20 +205,9 @@
       "company": "Hitachi Solutions India Pvt Ltd",
       "location": "Pune Division, Maharashtra, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/python-backend-engineer-at-hitachi-solutions-india-pvt-ltd-4468496305",
+      "url": "https://in.linkedin.com/jobs/view/python-backend-engineer-at-hitachi-solutions-india-pvt-ltd-4471319619",
       "posted": "Recently",
       "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer III - Java Fullstack",
-      "company": "JPMorganChase",
-      "location": "Hyderabad, Telangana, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-fullstack-at-jpmorganchase-4472251194",
-      "posted": "Recently",
-      "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -263,6 +252,17 @@
       "url": "https://in.linkedin.com/jobs/view/software-engineer-java-at-webengage-4261040176",
       "posted": "Recently",
       "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer II - Fullstack Developer",
+      "company": "AU SMALL FINANCE BANK",
+      "location": "Mumbai Metropolitan Region",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-fullstack-developer-at-au-small-finance-bank-4462635099",
+      "posted": "Recently",
+      "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -351,17 +351,6 @@
       "url": "https://in.linkedin.com/jobs/view/software-engineer-java-developer-at-scientific-games-4462504590",
       "posted": "Recently",
       "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer II - Fullstack Developer",
-      "company": "AU SMALL FINANCE BANK",
-      "location": "Mumbai Metropolitan Region",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-fullstack-developer-at-au-small-finance-bank-4462635099",
-      "posted": "Recently",
-      "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     },
