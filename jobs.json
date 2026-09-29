@@ -1,5 +1,5 @@
 {
-  "updated": "28 Sep 2026, 07:17 AM IST",
+  "updated": "29 Sep 2026, 07:14 AM IST",
   "count": 34,
   "jobs": [
     {
@@ -168,6 +168,17 @@
       "source": "Adobe Careers"
     },
     {
+      "title": "Software Engineer II - Java",
+      "company": "JPMorganChase",
+      "location": "Hyderabad, Telangana, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-java-at-jpmorganchase-4473057816",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Software Dev Engineer II, Alexa Connections",
       "company": "Amazon",
       "location": "Chennai, Tamil Nadu, India",
@@ -212,6 +223,17 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Software Engineer Application \u2014 SDE 1 / SDE 2",
+      "company": "Eterna-x",
+      "location": "New Delhi, Delhi, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-application-%E2%80%94-sde-1-sde-2-at-eterna-x-4470121922",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Developer III - Software Engineering",
       "company": "UST",
       "location": "Hyderabad, Telangana, India",
@@ -241,28 +263,6 @@
       "url": "https://in.linkedin.com/jobs/view/software-engr-ii-at-honeywell-technologies-4461028034",
       "posted": "Recently",
       "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer (Java)",
-      "company": "WebEngage",
-      "location": "Mumbai, Maharashtra, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-java-at-webengage-4261040176",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer II - Fullstack Developer",
-      "company": "AU SMALL FINANCE BANK",
-      "location": "Mumbai Metropolitan Region",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-fullstack-developer-at-au-small-finance-bank-4462635099",
-      "posted": "Recently",
-      "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -344,22 +344,22 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer - Java Developer",
-      "company": "SCIENTIFIC GAMES",
-      "location": "Bengaluru, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-java-developer-at-scientific-games-4462504590",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Microservices JAVA with AWS-Software Engineer II",
       "company": "Deloitte",
       "location": "Pune Division, Maharashtra, India",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/microservices-java-with-aws-software-engineer-ii-at-deloitte-4464872269",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer II - Fullstack Developer",
+      "company": "AU SMALL FINANCE BANK",
+      "location": "Mumbai Metropolitan Region",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-fullstack-developer-at-au-small-finance-bank-4462635099",
       "posted": "Recently",
       "level": "mid",
       "type": "Full-time",
