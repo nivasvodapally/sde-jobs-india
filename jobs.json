@@ -1,6 +1,6 @@
 {
-  "updated": "29 Sep 2026, 07:14 AM IST",
-  "count": 34,
+  "updated": "30 Sep 2026, 07:04 AM IST",
+  "count": 35,
   "jobs": [
     {
       "title": "Software Development Engineer",
@@ -168,17 +168,6 @@
       "source": "Adobe Careers"
     },
     {
-      "title": "Software Engineer II - Java",
-      "company": "JPMorganChase",
-      "location": "Hyderabad, Telangana, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-java-at-jpmorganchase-4473057816",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Software Dev Engineer II, Alexa Connections",
       "company": "Amazon",
       "location": "Chennai, Tamil Nadu, India",
@@ -212,6 +201,28 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Software Engineer II - Java, Springboot, AWS",
+      "company": "JPMorganChase",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-java-springboot-aws-at-jpmorganchase-4473529809",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer III - Java Full Stack",
+      "company": "JPMorganChase",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-full-stack-at-jpmorganchase-4469239324",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Python Backend Engineer",
       "company": "Hitachi Solutions India Pvt Ltd",
       "location": "Pune Division, Maharashtra, India",
@@ -219,17 +230,6 @@
       "url": "https://in.linkedin.com/jobs/view/python-backend-engineer-at-hitachi-solutions-india-pvt-ltd-4471319619",
       "posted": "Recently",
       "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer Application \u2014 SDE 1 / SDE 2",
-      "company": "Eterna-x",
-      "location": "New Delhi, Delhi, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-application-%E2%80%94-sde-1-sde-2-at-eterna-x-4470121922",
-      "posted": "Recently",
-      "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -245,22 +245,22 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Developer (Java)",
-      "company": "Charles Schwab India",
-      "location": "Hyderabad, Telangana, India",
+      "title": "Software Engr II",
+      "company": "Honeywell Technologies",
+      "location": "Bengaluru, Karnataka, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-developer-java-at-charles-schwab-india-4443274661",
+      "url": "https://in.linkedin.com/jobs/view/software-engr-ii-at-honeywell-technologies-4461028034",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engr II",
-      "company": "Honeywell Technologies",
-      "location": "Bengaluru, Karnataka, India",
+      "title": "Software Engineer (Java)",
+      "company": "WebEngage",
+      "location": "Mumbai, Maharashtra, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engr-ii-at-honeywell-technologies-4461028034",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-java-at-webengage-4261040176",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -278,13 +278,13 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Java Full Stack Developer",
-      "company": "Siemens",
-      "location": "Pune Division, Maharashtra, India",
+      "title": "Software Engineer II - Java, Springboot , AWS",
+      "company": "JPMorganChase",
+      "location": "Bengaluru, Karnataka, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/java-full-stack-developer-at-siemens-4469741637",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-java-springboot-aws-at-jpmorganchase-4473528960",
       "posted": "Recently",
-      "level": "entry",
+      "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -311,17 +311,6 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Java Developer",
-      "company": "Synechron",
-      "location": "Bengaluru East, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/java-developer-at-synechron-4463864460",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Senior Software Engineer II- Nodejs",
       "company": "Snapmint",
       "location": "Gurugram, Haryana, India",
@@ -338,6 +327,28 @@
       "location": "Pune Division, Maharashtra, India",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/cloud-native-full-stack-java-developer-at-sap-fioneer-4470092697",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer - Java Developer",
+      "company": "SCIENTIFIC GAMES",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-java-developer-at-scientific-games-4462504590",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer - Python Fullstack",
+      "company": "HARMAN India",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-python-fullstack-at-harman-india-4421940715",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
