@@ -1,6 +1,6 @@
 {
-  "updated": "30 Sep 2026, 07:04 AM IST",
-  "count": 35,
+  "updated": "01 Oct 2026, 07:29 AM IST",
+  "count": 34,
   "jobs": [
     {
       "title": "Software Development Engineer",
@@ -168,6 +168,17 @@
       "source": "Adobe Careers"
     },
     {
+      "title": "Software Engineer III - Java AWS",
+      "company": "JPMorganChase",
+      "location": "Hyderabad, Telangana, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-at-jpmorganchase-4474108366",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Software Dev Engineer II, Alexa Connections",
       "company": "Amazon",
       "location": "Chennai, Tamil Nadu, India",
@@ -212,22 +223,22 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer III - Java Full Stack",
-      "company": "JPMorganChase",
-      "location": "Bengaluru, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-full-stack-at-jpmorganchase-4469239324",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Python Backend Engineer",
       "company": "Hitachi Solutions India Pvt Ltd",
       "location": "Pune Division, Maharashtra, India",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/python-backend-engineer-at-hitachi-solutions-india-pvt-ltd-4471319619",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Development Engineer II (Full Stack BE Heavy)",
+      "company": "Expedia Group",
+      "location": "Gurgaon, Haryana, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-full-stack-be-heavy-at-expedia-group-4472324680",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -245,24 +256,13 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engr II",
-      "company": "Honeywell Technologies",
-      "location": "Bengaluru, Karnataka, India",
+      "title": "Software Development Engineer II -(Backend)",
+      "company": "Expedia Group",
+      "location": "Gurgaon, Haryana, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engr-ii-at-honeywell-technologies-4461028034",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-backend-at-expedia-group-4472323695",
       "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer (Java)",
-      "company": "WebEngage",
-      "location": "Mumbai, Maharashtra, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-java-at-webengage-4261040176",
-      "posted": "Recently",
-      "level": "entry",
+      "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -338,17 +338,6 @@
       "location": "Bengaluru, Karnataka, India",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/software-engineer-java-developer-at-scientific-games-4462504590",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer - Python Fullstack",
-      "company": "HARMAN India",
-      "location": "Bengaluru, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-python-fullstack-at-harman-india-4421940715",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
