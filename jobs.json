@@ -1,5 +1,5 @@
 {
-  "updated": "02 Oct 2026, 07:16 AM IST",
+  "updated": "03 Oct 2026, 06:49 AM IST",
   "count": 33,
   "jobs": [
     {
@@ -300,17 +300,6 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Senior Software Engineer II- Nodejs",
-      "company": "Snapmint",
-      "location": "Gurugram, Haryana, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-ii-nodejs-at-snapmint-4462156738",
-      "posted": "Recently",
-      "level": "senior",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Cloud Native Full stack Java Developer",
       "company": "SAP Fioneer",
       "location": "Pune Division, Maharashtra, India",
@@ -327,6 +316,17 @@
       "location": "Bengaluru, Karnataka, India",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/software-engineer-java-developer-at-scientific-games-4462504590",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer - Python Fullstack",
+      "company": "HARMAN India",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-python-fullstack-at-harman-india-4421940715",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
