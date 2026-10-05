@@ -1,5 +1,5 @@
 {
-  "updated": "04 Oct 2026, 07:10 AM IST",
+  "updated": "05 Oct 2026, 07:24 AM IST",
   "count": 33,
   "jobs": [
     {
@@ -223,17 +223,6 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Development Engineer II (Full Stack BE Heavy)",
-      "company": "Expedia Group",
-      "location": "Gurgaon, Haryana, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-full-stack-be-heavy-at-expedia-group-4472324680",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Software Development Engineer II, Alexa Endpoint Experiences, Alexa Devices",
       "company": "Amazon",
       "location": "Pune/Pimpri-Chinchwad Area",
@@ -256,13 +245,24 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Development Engineer II -(Backend)",
-      "company": "Expedia Group",
-      "location": "Gurgaon, Haryana, India",
+      "title": "Software Development Engineer, AWS DynamoDB",
+      "company": "Amazon Web Services (AWS)",
+      "location": "Bengaluru, Karnataka, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-backend-at-expedia-group-4472323695",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-aws-dynamodb-at-amazon-web-services-aws-4475512226",
       "posted": "Recently",
-      "level": "mid",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engr II",
+      "company": "Honeywell Technologies",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engr-ii-at-honeywell-technologies-4461028034",
+      "posted": "Recently",
+      "level": "entry",
       "type": "Full-time",
       "source": "LinkedIn"
     },
