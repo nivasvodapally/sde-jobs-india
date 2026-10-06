@@ -1,5 +1,5 @@
 {
-  "updated": "05 Oct 2026, 07:24 AM IST",
+  "updated": "06 Oct 2026, 07:50 AM IST",
   "count": 33,
   "jobs": [
     {
@@ -201,11 +201,11 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer II - Agentic AI, Java , AWS , Springboot , Kafka",
+      "title": "Software Engineer II - Java, Springboot , AWS",
       "company": "JPMorganChase",
-      "location": "Mumbai, Maharashtra, India",
+      "location": "Bengaluru, Karnataka, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-agentic-ai-java-aws-springboot-kafka-at-jpmorganchase-4473950798",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-java-springboot-aws-at-jpmorganchase-4473528960",
       "posted": "Recently",
       "level": "mid",
       "type": "Full-time",
@@ -234,22 +234,22 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Developer III - Software Engineering",
-      "company": "UST",
-      "location": "Hyderabad, Telangana, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/developer-iii-software-engineering-at-ust-4462520665",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Software Development Engineer, AWS DynamoDB",
       "company": "Amazon Web Services (AWS)",
       "location": "Bengaluru, Karnataka, India",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/software-development-engineer-aws-dynamodb-at-amazon-web-services-aws-4475512226",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer (Python)",
+      "company": "Morningstar",
+      "location": "Navi Mumbai, Maharashtra, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-python-at-morningstar-4475553293",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -274,17 +274,6 @@
       "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-seller-partner-services-tech-at-amazon-4471646111",
       "posted": "Recently",
       "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer II - Java, Springboot , AWS",
-      "company": "JPMorganChase",
-      "location": "Bengaluru, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-java-springboot-aws-at-jpmorganchase-4473528960",
-      "posted": "Recently",
-      "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -329,6 +318,17 @@
       "url": "https://in.linkedin.com/jobs/view/software-engineer-python-fullstack-at-harman-india-4421940715",
       "posted": "Recently",
       "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Developer II - Software Engineering (Java Developer)",
+      "company": "UST",
+      "location": "Trivandrum, Kerala, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/developer-ii-software-engineering-java-developer-at-ust-4473617721",
+      "posted": "Recently",
+      "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     },
