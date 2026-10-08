@@ -1,5 +1,5 @@
 {
-  "updated": "07 Oct 2026, 07:29 AM IST",
+  "updated": "08 Oct 2026, 07:46 AM IST",
   "count": 34,
   "jobs": [
     {
@@ -168,13 +168,13 @@
       "source": "Adobe Careers"
     },
     {
-      "title": "Software Dev Engineer II, Alexa Connections",
-      "company": "Amazon",
-      "location": "Chennai, Tamil Nadu, India",
+      "title": "Software Engineer III - Java AWS",
+      "company": "JPMorganChase",
+      "location": "Hyderabad, Telangana, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-dev-engineer-ii-alexa-connections-at-amazon-4455793886",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-at-jpmorganchase-4476975786",
       "posted": "Recently",
-      "level": "entry",
+      "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -223,17 +223,6 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer II - Java, Spring, AWS, Terraform",
-      "company": "JPMorganChase",
-      "location": "Mumbai, Maharashtra, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-java-spring-aws-terraform-at-jpmorganchase-4476155668",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Software Development Engineer, AWS DynamoDB",
       "company": "Amazon Web Services (AWS)",
       "location": "Bengaluru, Karnataka, India",
@@ -267,6 +256,17 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Software Engineer II - Fullstack Developer",
+      "company": "AU SMALL FINANCE BANK",
+      "location": "Mumbai Metropolitan Region",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-fullstack-developer-at-au-small-finance-bank-4462635099",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Software Development Engineer II, Seller Partner Services Tech",
       "company": "Amazon",
       "location": "Bengaluru, Karnataka, India",
@@ -289,6 +289,17 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Backend Developer (Java) - 4+ Years",
+      "company": "SAP",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/backend-developer-java-4%2B-years-at-sap-4474082314",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Cloud Native Full stack Java Developer",
       "company": "SAP Fioneer",
       "location": "Pune Division, Maharashtra, India",
@@ -300,24 +311,24 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer - Java Developer",
-      "company": "SCIENTIFIC GAMES",
-      "location": "Bengaluru, Karnataka, India",
+      "title": "Software Development Engineer II, Digital Acceleration",
+      "company": "Amazon",
+      "location": "Chennai, Tamil Nadu, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-java-developer-at-scientific-games-4462504590",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-digital-acceleration-at-amazon-4455795149",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
       "source": "LinkedIn"
     },
     {
-      "title": "Developer",
-      "company": "SAP",
-      "location": "Bengaluru, Karnataka, India",
+      "title": "Software Engineer II - Java, Spring, AWS, Terraform",
+      "company": "JPMorganChase",
+      "location": "Mumbai, Maharashtra, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/developer-at-sap-4474082314",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-java-spring-aws-terraform-at-jpmorganchase-4476155668",
       "posted": "Recently",
-      "level": "entry",
+      "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -349,17 +360,6 @@
       "location": "Pune Division, Maharashtra, India",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/microservices-java-with-aws-software-engineer-ii-at-deloitte-4464872269",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer II - Fullstack Developer",
-      "company": "AU SMALL FINANCE BANK",
-      "location": "Mumbai Metropolitan Region",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-fullstack-developer-at-au-small-finance-bank-4462635099",
       "posted": "Recently",
       "level": "mid",
       "type": "Full-time",
