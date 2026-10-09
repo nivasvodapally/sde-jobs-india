@@ -1,6 +1,6 @@
 {
-  "updated": "08 Oct 2026, 07:46 AM IST",
-  "count": 34,
+  "updated": "09 Oct 2026, 07:42 AM IST",
+  "count": 33,
   "jobs": [
     {
       "title": "Software Development Engineer",
@@ -170,9 +170,9 @@
     {
       "title": "Software Engineer III - Java AWS",
       "company": "JPMorganChase",
-      "location": "Hyderabad, Telangana, India",
+      "location": "Bengaluru, Karnataka, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-at-jpmorganchase-4476975786",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-at-jpmorganchase-4477468483",
       "posted": "Recently",
       "level": "mid",
       "type": "Full-time",
@@ -212,13 +212,13 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer II - Agentic AI, Java , AWS , Springboot , Kafka",
-      "company": "JPMorganChase",
-      "location": "Mumbai, Maharashtra, India",
+      "title": "Software Development Engineer- II, Amazon Autos",
+      "company": "Amazon",
+      "location": "Gurugram, Haryana, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-agentic-ai-java-aws-springboot-kafka-at-jpmorganchase-4473953787",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-amazon-autos-at-amazon-4477492606",
       "posted": "Recently",
-      "level": "mid",
+      "level": "entry",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -256,17 +256,6 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer II - Fullstack Developer",
-      "company": "AU SMALL FINANCE BANK",
-      "location": "Mumbai Metropolitan Region",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-fullstack-developer-at-au-small-finance-bank-4462635099",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Software Development Engineer II, Seller Partner Services Tech",
       "company": "Amazon",
       "location": "Bengaluru, Karnataka, India",
@@ -300,17 +289,6 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Cloud Native Full stack Java Developer",
-      "company": "SAP Fioneer",
-      "location": "Pune Division, Maharashtra, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/cloud-native-full-stack-java-developer-at-sap-fioneer-4470092697",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Software Development Engineer II, Digital Acceleration",
       "company": "Amazon",
       "location": "Chennai, Tamil Nadu, India",
@@ -322,13 +300,13 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer II - Java, Spring, AWS, Terraform",
-      "company": "JPMorganChase",
-      "location": "Mumbai, Maharashtra, India",
+      "title": "Cloud Native Full stack Java Developer",
+      "company": "SAP Fioneer",
+      "location": "Pune Division, Maharashtra, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-java-spring-aws-terraform-at-jpmorganchase-4476155668",
+      "url": "https://in.linkedin.com/jobs/view/cloud-native-full-stack-java-developer-at-sap-fioneer-4477166420",
       "posted": "Recently",
-      "level": "mid",
+      "level": "entry",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -360,6 +338,17 @@
       "location": "Pune Division, Maharashtra, India",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/microservices-java-with-aws-software-engineer-ii-at-deloitte-4464872269",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer II - Fullstack Developer",
+      "company": "AU SMALL FINANCE BANK",
+      "location": "Mumbai Metropolitan Region",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-fullstack-developer-at-au-small-finance-bank-4462635099",
       "posted": "Recently",
       "level": "mid",
       "type": "Full-time",
