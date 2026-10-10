@@ -1,5 +1,5 @@
 {
-  "updated": "09 Oct 2026, 07:42 AM IST",
+  "updated": "10 Oct 2026, 07:29 AM IST",
   "count": 33,
   "jobs": [
     {
@@ -168,6 +168,17 @@
       "source": "Adobe Careers"
     },
     {
+      "title": "Full Stack .Net Developer",
+      "company": "Siemens Healthineers",
+      "location": "Pune District, Maharashtra, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-net-developer-at-siemens-healthineers-4476282753",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Software Engineer III - Java AWS",
       "company": "JPMorganChase",
       "location": "Bengaluru, Karnataka, India",
@@ -201,6 +212,17 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Software Engineer II - Fullstack Developer",
+      "company": "AU SMALL FINANCE BANK",
+      "location": "Navi Mumbai, Maharashtra, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-fullstack-developer-at-au-small-finance-bank-4462635099",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Software Development Engineer II, Alexa Endpoint Experiences, Alexa Devices",
       "company": "Amazon",
       "location": "Pune/Pimpri-Chinchwad Area",
@@ -208,6 +230,17 @@
       "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-alexa-endpoint-experiences-alexa-devices-at-amazon-4462829040",
       "posted": "Recently",
       "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer II - Agentic AI, Java , AWS , Springboot , Kafka",
+      "company": "JPMorganChase",
+      "location": "Mumbai, Maharashtra, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-agentic-ai-java-aws-springboot-kafka-at-jpmorganchase-4473953787",
+      "posted": "Recently",
+      "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -227,29 +260,7 @@
       "company": "Amazon Web Services (AWS)",
       "location": "Bengaluru, Karnataka, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-aws-dynamodb-at-amazon-web-services-aws-4475512226",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer (Python)",
-      "company": "Morningstar",
-      "location": "Navi Mumbai, Maharashtra, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-python-at-morningstar-4475553293",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engr II",
-      "company": "Honeywell Technologies",
-      "location": "Bengaluru, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engr-ii-at-honeywell-technologies-4461028034",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-aws-dynamodb-at-amazon-web-services-aws-4477826957",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -311,13 +322,13 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer - Python Fullstack",
-      "company": "HARMAN India",
-      "location": "Bengaluru, Karnataka, India",
+      "title": "Software Engineer II - Java, Spring, AWS, Terraform",
+      "company": "JPMorganChase",
+      "location": "Mumbai, Maharashtra, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-python-fullstack-at-harman-india-4421940715",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-java-spring-aws-terraform-at-jpmorganchase-4476155668",
       "posted": "Recently",
-      "level": "entry",
+      "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -333,33 +344,22 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Software Engineer (Python)",
+      "company": "Morningstar",
+      "location": "Navi Mumbai, Maharashtra, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-python-at-morningstar-4475553293",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Microservices JAVA with AWS-Software Engineer II",
       "company": "Deloitte",
       "location": "Pune Division, Maharashtra, India",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/microservices-java-with-aws-software-engineer-ii-at-deloitte-4464872269",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer II - Fullstack Developer",
-      "company": "AU SMALL FINANCE BANK",
-      "location": "Mumbai Metropolitan Region",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-fullstack-developer-at-au-small-finance-bank-4462635099",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Fullstack Java With Angular-Software Engineer II",
-      "company": "Deloitte",
-      "location": "Chennai, Tamil Nadu, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/fullstack-java-with-angular-software-engineer-ii-at-deloitte-4424676269",
       "posted": "Recently",
       "level": "mid",
       "type": "Full-time",
