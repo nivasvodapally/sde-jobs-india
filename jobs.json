@@ -1,6 +1,6 @@
 {
-  "updated": "15 Oct 2026, 06:10 AM IST",
-  "count": 25,
+  "updated": "16 Oct 2026, 06:06 AM IST",
+  "count": 31,
   "jobs": [
     {
       "title": "Software Development Engineer",
@@ -170,9 +170,9 @@
     {
       "title": "Software Engineer III - Java AWS",
       "company": "JPMorganChase",
-      "location": "Bengaluru, Karnataka, India",
+      "location": "Pune Division, Maharashtra, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-at-jpmorganchase-4477468483",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-at-jpmorganchase-4480150200",
       "posted": "Recently",
       "level": "mid",
       "type": "Full-time",
@@ -201,24 +201,13 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer II - Agentic AI, Java , AWS , Springboot , Kafka",
-      "company": "JPMorganChase",
-      "location": "Mumbai, Maharashtra, India",
+      "title": "Software Engineer II (Java Full stack Developer)",
+      "company": "Mastercard",
+      "location": "Pune Division, Maharashtra, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-agentic-ai-java-aws-springboot-kafka-at-jpmorganchase-4473953787",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-java-full-stack-developer-at-mastercard-4477085129",
       "posted": "Recently",
       "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Development Engineer- II, Amazon Autos",
-      "company": "Amazon",
-      "location": "Gurugram, Haryana, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-amazon-autos-at-amazon-4477492606",
-      "posted": "Recently",
-      "level": "entry",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -245,17 +234,6 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engr II",
-      "company": "Honeywell Technologies",
-      "location": "Bengaluru, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engr-ii-at-honeywell-technologies-4461028034",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Software Engineer II - Fullstack Developer",
       "company": "AU SMALL FINANCE BANK",
       "location": "Mumbai Metropolitan Region",
@@ -267,6 +245,17 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Software Development Engineer - II",
+      "company": "Amazon",
+      "location": "Hyderabad, Telangana, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-at-amazon-4476172945",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Software Development Engineer II, Amazon Music Search",
       "company": "Amazon Music",
       "location": "Bengaluru, Karnataka, India",
@@ -274,6 +263,83 @@
       "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-amazon-music-search-at-amazon-music-4455790867",
       "posted": "Recently",
       "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Development Engineer II, Seller Partner Services Tech",
+      "company": "Amazon",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-seller-partner-services-tech-at-amazon-4471646111",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Development Engineer II, Digital Acceleration",
+      "company": "Amazon",
+      "location": "Chennai, Tamil Nadu, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-digital-acceleration-at-amazon-4455795149",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Cloud Native Full stack Java Developer",
+      "company": "SAP Fioneer",
+      "location": "Pune Division, Maharashtra, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/cloud-native-full-stack-java-developer-at-sap-fioneer-4477166420",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer II",
+      "company": "Mastercard",
+      "location": "Pune Division, Maharashtra, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-mastercard-4440190381",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Developer II - Software Engineering (Java Developer)",
+      "company": "UST",
+      "location": "Trivandrum, Kerala, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/developer-ii-software-engineering-java-developer-at-ust-4473617721",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Microservices JAVA with AWS-Software Engineer II",
+      "company": "Deloitte",
+      "location": "Pune Division, Maharashtra, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/microservices-java-with-aws-software-engineer-ii-at-deloitte-4464872269",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Fullstack Java With Angular-Software Engineer II",
+      "company": "Deloitte",
+      "location": "Chennai, Tamil Nadu, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/fullstack-java-with-angular-software-engineer-ii-at-deloitte-4424676269",
+      "posted": "Recently",
+      "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     }
