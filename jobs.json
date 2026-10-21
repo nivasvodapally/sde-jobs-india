@@ -1,5 +1,5 @@
 {
-  "updated": "20 Oct 2026, 06:18 AM IST",
+  "updated": "21 Oct 2026, 06:18 AM IST",
   "count": 33,
   "jobs": [
     {
@@ -234,17 +234,6 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer II - Java/AWS/Python",
-      "company": "JPMorganChase",
-      "location": "Noida, Uttar Pradesh, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-java-aws-python-at-jpmorganchase-4471832655",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Software Engineer II - Fullstack Developer",
       "company": "AU SMALL FINANCE BANK",
       "location": "Mumbai Metropolitan Region",
@@ -278,6 +267,17 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Software Engineer III - Java AWS",
+      "company": "JPMorganChase",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-at-jpmorganchase-4465863850",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Software Development Engineer II, Seller Partner Services Tech",
       "company": "Amazon",
       "location": "Bengaluru, Karnataka, India",
@@ -289,22 +289,22 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Development Engineer II, Digital Acceleration",
-      "company": "Amazon",
-      "location": "Chennai, Tamil Nadu, India",
+      "title": "Cloud Native Full stack Java Developer",
+      "company": "SAP Fioneer",
+      "location": "Pune Division, Maharashtra, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-digital-acceleration-at-amazon-4455795149",
+      "url": "https://in.linkedin.com/jobs/view/cloud-native-full-stack-java-developer-at-sap-fioneer-4480759534",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
       "source": "LinkedIn"
     },
     {
-      "title": "Cloud Native Full stack Java Developer",
-      "company": "SAP Fioneer",
-      "location": "Pune Division, Maharashtra, India",
+      "title": "Software Development Engineer II, Digital Acceleration",
+      "company": "Amazon",
+      "location": "Chennai, Tamil Nadu, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/cloud-native-full-stack-java-developer-at-sap-fioneer-4477166420",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-digital-acceleration-at-amazon-4455795149",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -344,17 +344,6 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer III- Java AWS",
-      "company": "JPMorganChase",
-      "location": "Hyderabad, Telangana, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-at-jpmorganchase-4481208108",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Fullstack Java With Angular-Software Engineer II",
       "company": "Deloitte",
       "location": "Chennai, Tamil Nadu, India",
@@ -362,6 +351,17 @@
       "url": "https://in.linkedin.com/jobs/view/fullstack-java-with-angular-software-engineer-ii-at-deloitte-4424676269",
       "posted": "Recently",
       "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer/Senior Software Engineer [Java/JEE]",
+      "company": "Citrus Informatics (India) Pvt Ltd",
+      "location": "Kochi, Kerala, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-senior-software-engineer-java-jee-at-citrus-informatics-india-pvt-ltd-4404798296",
+      "posted": "Recently",
+      "level": "senior",
       "type": "Full-time",
       "source": "LinkedIn"
     }
