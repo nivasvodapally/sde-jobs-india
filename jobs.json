@@ -1,6 +1,6 @@
 {
-  "updated": "21 Oct 2026, 06:18 AM IST",
-  "count": 33,
+  "updated": "22 Oct 2026, 06:21 AM IST",
+  "count": 34,
   "jobs": [
     {
       "title": "Software Development Engineer",
@@ -201,17 +201,6 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer II",
-      "company": "NCR Voyix",
-      "location": "Chennai, Tamil Nadu, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-ncr-voyix-4480363568",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Software Development Engineer, AWS DynamoDB",
       "company": "Amazon Web Services (AWS)",
       "location": "Bengaluru, Karnataka, India",
@@ -234,17 +223,6 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer II - Fullstack Developer",
-      "company": "AU SMALL FINANCE BANK",
-      "location": "Mumbai Metropolitan Region",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-fullstack-developer-at-au-small-finance-bank-4462635099",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Software Development Engineer - II",
       "company": "Amazon",
       "location": "Hyderabad, Telangana, India",
@@ -256,22 +234,44 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Development Engineer II, Amazon Music Search",
-      "company": "Amazon Music",
+      "title": "Developer II - Software Engineering (Java Developer)",
+      "company": "UST",
+      "location": "Trivandrum, Kerala, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/developer-ii-software-engineering-java-developer-at-ust-4473617721",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer III - Back-end Engineer - Chase UK",
+      "company": "JPMorganChase",
       "location": "Bengaluru, Karnataka, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-amazon-music-search-at-amazon-music-4455790867",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-back-end-engineer-chase-uk-at-jpmorganchase-4442450307",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "SOFTWARE ENGINEER 3",
+      "company": "Xerox",
+      "location": "Greater Kolkata Area",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-3-at-xerox-4362193461",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer III - Java AWS",
-      "company": "JPMorganChase",
-      "location": "Bengaluru, Karnataka, India",
+      "title": "Full Stack Dev (Angular + C#) 3-6 Y",
+      "company": "Siemens",
+      "location": "Chennai, Tamil Nadu, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-at-jpmorganchase-4465863850",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-dev-angular-%2B-c%23-3-6-y-at-siemens-4477388949",
       "posted": "Recently",
       "level": "mid",
       "type": "Full-time",
@@ -322,17 +322,6 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Developer II - Software Engineering (Java Developer)",
-      "company": "UST",
-      "location": "Trivandrum, Kerala, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/developer-ii-software-engineering-java-developer-at-ust-4473617721",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Microservices JAVA with AWS-Software Engineer II",
       "company": "Deloitte",
       "location": "Pune Division, Maharashtra, India",
@@ -340,6 +329,28 @@
       "url": "https://in.linkedin.com/jobs/view/microservices-java-with-aws-software-engineer-ii-at-deloitte-4464872269",
       "posted": "Recently",
       "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Verint",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-verint-4471481723",
+      "posted": "Recently",
+      "level": "senior",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "HiroJet",
+      "location": "Greater Bengaluru Area",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-hirojet-4481127778",
+      "posted": "Recently",
+      "level": "senior",
       "type": "Full-time",
       "source": "LinkedIn"
     },
