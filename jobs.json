@@ -1,5 +1,5 @@
 {
-  "updated": "22 Oct 2026, 06:21 AM IST",
+  "updated": "23 Oct 2026, 06:15 AM IST",
   "count": 34,
   "jobs": [
     {
@@ -245,17 +245,6 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer III - Back-end Engineer - Chase UK",
-      "company": "JPMorganChase",
-      "location": "Bengaluru, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-back-end-engineer-chase-uk-at-jpmorganchase-4442450307",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "SOFTWARE ENGINEER 3",
       "company": "Xerox",
       "location": "Greater Kolkata Area",
@@ -274,6 +263,17 @@
       "url": "https://in.linkedin.com/jobs/view/full-stack-dev-angular-%2B-c%23-3-6-y-at-siemens-4477388949",
       "posted": "Recently",
       "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer - Backend Services",
+      "company": "Truveta",
+      "location": "Hyderabad, Telangana, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-backend-services-at-truveta-4434639696",
+      "posted": "Recently",
+      "level": "entry",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -344,17 +344,6 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Senior Software Engineer",
-      "company": "HiroJet",
-      "location": "Greater Bengaluru Area",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-hirojet-4481127778",
-      "posted": "Recently",
-      "level": "senior",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Fullstack Java With Angular-Software Engineer II",
       "company": "Deloitte",
       "location": "Chennai, Tamil Nadu, India",
@@ -371,6 +360,17 @@
       "location": "Kochi, Kerala, India",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/software-engineer-senior-software-engineer-java-jee-at-citrus-informatics-india-pvt-ltd-4404798296",
+      "posted": "Recently",
+      "level": "senior",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Mastercard",
+      "location": "Pune Division, Maharashtra, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-mastercard-4480060680",
       "posted": "Recently",
       "level": "senior",
       "type": "Full-time",
