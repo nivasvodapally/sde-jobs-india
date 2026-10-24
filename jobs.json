@@ -1,6 +1,6 @@
 {
-  "updated": "23 Oct 2026, 06:15 AM IST",
-  "count": 34,
+  "updated": "24 Oct 2026, 06:10 AM IST",
+  "count": 32,
   "jobs": [
     {
       "title": "Software Development Engineer",
@@ -245,6 +245,17 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Software Engineer II",
+      "company": "Mastercard",
+      "location": "Pune Division, Maharashtra, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-mastercard-4480679568",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "SOFTWARE ENGINEER 3",
       "company": "Xerox",
       "location": "Greater Kolkata Area",
@@ -263,17 +274,6 @@
       "url": "https://in.linkedin.com/jobs/view/full-stack-dev-angular-%2B-c%23-3-6-y-at-siemens-4477388949",
       "posted": "Recently",
       "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer - Backend Services",
-      "company": "Truveta",
-      "location": "Hyderabad, Telangana, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-backend-services-at-truveta-4434639696",
-      "posted": "Recently",
-      "level": "entry",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -311,11 +311,11 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer II",
+      "title": "Software Engineer II - Java Full stack with AI",
       "company": "Mastercard",
       "location": "Pune Division, Maharashtra, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-mastercard-4440190381",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-java-full-stack-with-ai-at-mastercard-4480683375",
       "posted": "Recently",
       "level": "mid",
       "type": "Full-time",
@@ -329,17 +329,6 @@
       "url": "https://in.linkedin.com/jobs/view/microservices-java-with-aws-software-engineer-ii-at-deloitte-4464872269",
       "posted": "Recently",
       "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Senior Software Engineer",
-      "company": "Verint",
-      "location": "Bengaluru, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-verint-4471481723",
-      "posted": "Recently",
-      "level": "senior",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -360,17 +349,6 @@
       "location": "Kochi, Kerala, India",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/software-engineer-senior-software-engineer-java-jee-at-citrus-informatics-india-pvt-ltd-4404798296",
-      "posted": "Recently",
-      "level": "senior",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Senior Software Engineer",
-      "company": "Mastercard",
-      "location": "Pune Division, Maharashtra, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-mastercard-4480060680",
       "posted": "Recently",
       "level": "senior",
       "type": "Full-time",
