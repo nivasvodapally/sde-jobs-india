@@ -1,5 +1,5 @@
 {
-  "updated": "25 Oct 2026, 06:30 AM IST",
+  "updated": "26 Oct 2026, 06:40 AM IST",
   "count": 32,
   "jobs": [
     {
@@ -311,17 +311,6 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Specialist - Software Development & Engineering- JAVA",
-      "company": "Charles Schwab India",
-      "location": "Hyderabad, Telangana, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/specialist-software-development-engineering-java-at-charles-schwab-india-4483362822",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Software Engineer II - Java Full stack with AI",
       "company": "Mastercard",
       "location": "Pune Division, Maharashtra, India",
@@ -333,6 +322,28 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Microservices JAVA with AWS-Software Engineer II",
+      "company": "Deloitte",
+      "location": "Pune Division, Maharashtra, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/microservices-java-with-aws-software-engineer-ii-at-deloitte-4464872269",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "HiroJet",
+      "location": "Greater Bengaluru Area",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-hirojet-4482698244",
+      "posted": "Recently",
+      "level": "senior",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Fullstack Java With Angular-Software Engineer II",
       "company": "Deloitte",
       "location": "Chennai, Tamil Nadu, India",
@@ -340,17 +351,6 @@
       "url": "https://in.linkedin.com/jobs/view/fullstack-java-with-angular-software-engineer-ii-at-deloitte-4424676269",
       "posted": "Recently",
       "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer/Senior Software Engineer [Java/JEE]",
-      "company": "Citrus Informatics (India) Pvt Ltd",
-      "location": "Kochi, Kerala, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-senior-software-engineer-java-jee-at-citrus-informatics-india-pvt-ltd-4404798296",
-      "posted": "Recently",
-      "level": "senior",
       "type": "Full-time",
       "source": "LinkedIn"
     }
