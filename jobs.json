@@ -1,5 +1,5 @@
 {
-  "updated": "27 Oct 2026, 06:35 AM IST",
+  "updated": "28 Oct 2026, 07:05 AM IST",
   "count": 32,
   "jobs": [
     {
@@ -168,6 +168,28 @@
       "source": "Adobe Careers"
     },
     {
+      "title": "Software Engineer III - (Java, AWS)",
+      "company": "JPMorganChase",
+      "location": "Hyderabad, Telangana, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-at-jpmorganchase-4484094709",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer III",
+      "company": "Walmart Global Tech India",
+      "location": "Chennai, Tamil Nadu, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-at-walmart-global-tech-india-4481886404",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Python Backend Engineer",
       "company": "Hitachi Solutions India Pvt Ltd",
       "location": "Pune Division, Maharashtra, India",
@@ -179,6 +201,17 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Software Engineer II - Java backend + Agentic AI",
+      "company": "JPMorganChase",
+      "location": "Noida, Uttar Pradesh, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-java-backend-%2B-agentic-ai-at-jpmorganchase-4484094728",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Software Development Engineer II, Alexa Endpoint Experiences, Alexa Devices",
       "company": "Amazon",
       "location": "Pune/Pimpri-Chinchwad Area",
@@ -186,17 +219,6 @@
       "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-alexa-endpoint-experiences-alexa-devices-at-amazon-4462829040",
       "posted": "Recently",
       "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer II - Agentic AI, Java , AWS , Springboot , Kafka",
-      "company": "JPMorganChase",
-      "location": "Mumbai, Maharashtra, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-agentic-ai-java-aws-springboot-kafka-at-jpmorganchase-4473953787",
-      "posted": "Recently",
-      "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -256,28 +278,6 @@
       "source": "LinkedIn"
     },
     {
-      "title": "SOFTWARE ENGINEER 3",
-      "company": "Xerox",
-      "location": "Greater Kolkata Area",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-3-at-xerox-4362193461",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Full Stack Dev (Angular + C#) 3-6 Y",
-      "company": "Siemens",
-      "location": "Chennai, Tamil Nadu, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-dev-angular-%2B-c%23-3-6-y-at-siemens-4477388949",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Software Development Engineer II, Seller Partner Services Tech",
       "company": "Amazon",
       "location": "Bengaluru, Karnataka, India",
@@ -322,17 +322,6 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Microservices JAVA with AWS-Software Engineer II",
-      "company": "Deloitte",
-      "location": "Pune Division, Maharashtra, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/microservices-java-with-aws-software-engineer-ii-at-deloitte-4464872269",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Senior Software Engineer",
       "company": "HiroJet",
       "location": "Greater Bengaluru Area",
@@ -340,6 +329,17 @@
       "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-hirojet-4482698244",
       "posted": "Recently",
       "level": "senior",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer III-Java, Springboot",
+      "company": "JPMorganChase",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-springboot-at-jpmorganchase-4484404892",
+      "posted": "Recently",
+      "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     },
