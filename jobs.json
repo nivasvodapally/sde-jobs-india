@@ -1,6 +1,6 @@
 {
-  "updated": "28 Oct 2026, 07:05 AM IST",
-  "count": 32,
+  "updated": "29 Oct 2026, 07:26 AM IST",
+  "count": 35,
   "jobs": [
     {
       "title": "Software Development Engineer",
@@ -201,17 +201,6 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer II - Java backend + Agentic AI",
-      "company": "JPMorganChase",
-      "location": "Noida, Uttar Pradesh, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-java-backend-%2B-agentic-ai-at-jpmorganchase-4484094728",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Software Development Engineer II, Alexa Endpoint Experiences, Alexa Devices",
       "company": "Amazon",
       "location": "Pune/Pimpri-Chinchwad Area",
@@ -219,6 +208,17 @@
       "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-alexa-endpoint-experiences-alexa-devices-at-amazon-4462829040",
       "posted": "Recently",
       "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer II - Agentic AI, Java , AWS , Springboot , Kafka",
+      "company": "JPMorganChase",
+      "location": "Mumbai, Maharashtra, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-agentic-ai-java-aws-springboot-kafka-at-jpmorganchase-4473953787",
+      "posted": "Recently",
+      "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -256,22 +256,22 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Software Engineer-II",
+      "company": "Spreetail",
+      "location": "Greater Delhi Area",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-spreetail-4483850309",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Developer II - Software Engineering (Java Developer)",
       "company": "UST",
       "location": "Trivandrum, Kerala, India",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/developer-ii-software-engineering-java-developer-at-ust-4473617721",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer II",
-      "company": "Mastercard",
-      "location": "Pune Division, Maharashtra, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-mastercard-4480679568",
       "posted": "Recently",
       "level": "mid",
       "type": "Full-time",
@@ -293,7 +293,7 @@
       "company": "SAP Fioneer",
       "location": "Pune Division, Maharashtra, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/cloud-native-full-stack-java-developer-at-sap-fioneer-4480759534",
+      "url": "https://in.linkedin.com/jobs/view/cloud-native-full-stack-java-developer-at-sap-fioneer-4483887085",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -307,6 +307,28 @@
       "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-digital-acceleration-at-amazon-4455795149",
       "posted": "Recently",
       "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer II",
+      "company": "Mastercard",
+      "location": "Pune Division, Maharashtra, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-mastercard-4440190381",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer II - Java Fullstack (Java, Spring boot, React)",
+      "company": "JPMorganChase",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-java-fullstack-java-spring-boot-react-at-jpmorganchase-4479756436",
+      "posted": "Recently",
+      "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -333,22 +355,33 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer III-Java, Springboot",
-      "company": "JPMorganChase",
-      "location": "Bengaluru, Karnataka, India",
+      "title": "Fullstack Java With Angular-Software Engineer II",
+      "company": "Deloitte",
+      "location": "Chennai, Tamil Nadu, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-springboot-at-jpmorganchase-4484404892",
+      "url": "https://in.linkedin.com/jobs/view/fullstack-java-with-angular-software-engineer-ii-at-deloitte-4424676269",
       "posted": "Recently",
       "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     },
     {
-      "title": "Fullstack Java With Angular-Software Engineer II",
-      "company": "Deloitte",
-      "location": "Chennai, Tamil Nadu, India",
+      "title": "Software Engineer/Senior Software Engineer [Java/JEE]",
+      "company": "Citrus Informatics (India) Pvt Ltd",
+      "location": "Kochi, Kerala, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/fullstack-java-with-angular-software-engineer-ii-at-deloitte-4424676269",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-senior-software-engineer-java-jee-at-citrus-informatics-india-pvt-ltd-4404798296",
+      "posted": "Recently",
+      "level": "senior",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer II - Fullstack (Java, React, AWS)",
+      "company": "JPMorganChase",
+      "location": "Mumbai, Maharashtra, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-fullstack-java-react-aws-at-jpmorganchase-4483746941",
       "posted": "Recently",
       "level": "mid",
       "type": "Full-time",
