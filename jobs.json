@@ -1,6 +1,6 @@
 {
-  "updated": "29 Oct 2026, 07:26 AM IST",
-  "count": 35,
+  "updated": "30 Oct 2026, 07:30 AM IST",
+  "count": 32,
   "jobs": [
     {
       "title": "Software Development Engineer",
@@ -168,22 +168,11 @@
       "source": "Adobe Careers"
     },
     {
-      "title": "Software Engineer III - (Java, AWS)",
+      "title": "Software Engineer III - Java, AWS, AI",
       "company": "JPMorganChase",
-      "location": "Hyderabad, Telangana, India",
+      "location": "Mumbai, Maharashtra, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-at-jpmorganchase-4484094709",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer III",
-      "company": "Walmart Global Tech India",
-      "location": "Chennai, Tamil Nadu, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-at-walmart-global-tech-india-4481886404",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-ai-at-jpmorganchase-4485301295",
       "posted": "Recently",
       "level": "mid",
       "type": "Full-time",
@@ -223,6 +212,17 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Software Development Engineer, Alexa Connections",
+      "company": "Amazon",
+      "location": "Chennai, Tamil Nadu, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-alexa-connections-at-amazon-4485217407",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Software Development Engineer, AWS DynamoDB",
       "company": "Amazon Web Services (AWS)",
       "location": "Bengaluru, Karnataka, India",
@@ -239,17 +239,6 @@
       "location": "Navi Mumbai, Maharashtra, India",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/software-engineer-python-at-morningstar-4475553293",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Development Engineer - II",
-      "company": "Amazon",
-      "location": "Hyderabad, Telangana, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-at-amazon-4476172945",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -278,6 +267,17 @@
       "source": "LinkedIn"
     },
     {
+      "title": "SOFTWARE ENGINEER 3",
+      "company": "Xerox",
+      "location": "Greater Kolkata Area",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-3-at-xerox-4362193461",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Software Development Engineer II, Seller Partner Services Tech",
       "company": "Amazon",
       "location": "Bengaluru, Karnataka, India",
@@ -294,17 +294,6 @@
       "location": "Pune Division, Maharashtra, India",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/cloud-native-full-stack-java-developer-at-sap-fioneer-4483887085",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Development Engineer II, Digital Acceleration",
-      "company": "Amazon",
-      "location": "Chennai, Tamil Nadu, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-digital-acceleration-at-amazon-4455795149",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -360,28 +349,6 @@
       "location": "Chennai, Tamil Nadu, India",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/fullstack-java-with-angular-software-engineer-ii-at-deloitte-4424676269",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer/Senior Software Engineer [Java/JEE]",
-      "company": "Citrus Informatics (India) Pvt Ltd",
-      "location": "Kochi, Kerala, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-senior-software-engineer-java-jee-at-citrus-informatics-india-pvt-ltd-4404798296",
-      "posted": "Recently",
-      "level": "senior",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer II - Fullstack (Java, React, AWS)",
-      "company": "JPMorganChase",
-      "location": "Mumbai, Maharashtra, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-fullstack-java-react-aws-at-jpmorganchase-4483746941",
       "posted": "Recently",
       "level": "mid",
       "type": "Full-time",
