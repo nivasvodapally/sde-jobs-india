@@ -1,5 +1,5 @@
 {
-  "updated": "30 Oct 2026, 07:30 AM IST",
+  "updated": "31 Oct 2026, 07:17 AM IST",
   "count": 32,
   "jobs": [
     {
@@ -168,17 +168,6 @@
       "source": "Adobe Careers"
     },
     {
-      "title": "Software Engineer III - Java, AWS, AI",
-      "company": "JPMorganChase",
-      "location": "Mumbai, Maharashtra, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-ai-at-jpmorganchase-4485301295",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Python Backend Engineer",
       "company": "Hitachi Solutions India Pvt Ltd",
       "location": "Pune Division, Maharashtra, India",
@@ -197,17 +186,6 @@
       "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-alexa-endpoint-experiences-alexa-devices-at-amazon-4462829040",
       "posted": "Recently",
       "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer II - Agentic AI, Java , AWS , Springboot , Kafka",
-      "company": "JPMorganChase",
-      "location": "Mumbai, Maharashtra, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-agentic-ai-java-aws-springboot-kafka-at-jpmorganchase-4473953787",
-      "posted": "Recently",
-      "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -267,6 +245,17 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Software Engineer II - Java Fullstack (Java, Spring boot, React)",
+      "company": "JPMorganChase",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-java-fullstack-java-spring-boot-react-at-jpmorganchase-4479756436",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "SOFTWARE ENGINEER 3",
       "company": "Xerox",
       "location": "Greater Kolkata Area",
@@ -274,6 +263,17 @@
       "url": "https://in.linkedin.com/jobs/view/software-engineer-3-at-xerox-4362193461",
       "posted": "Recently",
       "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer II - Java , Microservices, Kubernetes, React",
+      "company": "JPMorganChase",
+      "location": "Mumbai, Maharashtra, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-java-microservices-kubernetes-react-at-jpmorganchase-4485365941",
+      "posted": "Recently",
+      "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -311,17 +311,6 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer II - Java Fullstack (Java, Spring boot, React)",
-      "company": "JPMorganChase",
-      "location": "Bengaluru, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-java-fullstack-java-spring-boot-react-at-jpmorganchase-4479756436",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Software Engineer II - Java Full stack with AI",
       "company": "Mastercard",
       "location": "Pune Division, Maharashtra, India",
@@ -349,6 +338,17 @@
       "location": "Chennai, Tamil Nadu, India",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/fullstack-java-with-angular-software-engineer-ii-at-deloitte-4424676269",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer III - Java Full Stack",
+      "company": "JPMorganChase",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-full-stack-at-jpmorganchase-4485302230",
       "posted": "Recently",
       "level": "mid",
       "type": "Full-time",
