@@ -1,6 +1,6 @@
 {
-  "updated": "03 Nov 2026, 08:15 AM IST",
-  "count": 31,
+  "updated": "04 Nov 2026, 07:46 AM IST",
+  "count": 30,
   "jobs": [
     {
       "title": "Software Development Engineer",
@@ -179,6 +179,17 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Software Engineer (Fullstack- Java)",
+      "company": "Veradigm\u00ae",
+      "location": "Pune Division, Maharashtra, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-fullstack-java-at-veradigm%C2%AE-4486858570",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Software Development Engineer II, Alexa Endpoint Experiences, Alexa Devices",
       "company": "Amazon",
       "location": "Pune/Pimpri-Chinchwad Area",
@@ -267,17 +278,6 @@
       "source": "LinkedIn"
     },
     {
-      "title": "SOFTWARE ENGINEER 3",
-      "company": "Xerox",
-      "location": "Greater Kolkata Area",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-3-at-xerox-4362193461",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Software Development Engineer II, Seller Partner Services Tech",
       "company": "Amazon",
       "location": "Bengaluru, Karnataka, India",
@@ -318,17 +318,6 @@
       "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-java-full-stack-with-ai-at-mastercard-4480683375",
       "posted": "Recently",
       "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Senior Software Engineer",
-      "company": "HiroJet",
-      "location": "Greater Bengaluru Area",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-hirojet-4482698244",
-      "posted": "Recently",
-      "level": "senior",
       "type": "Full-time",
       "source": "LinkedIn"
     },
