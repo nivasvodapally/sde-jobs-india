@@ -1,5 +1,5 @@
 {
-  "updated": "05 Nov 2026, 08:10 AM IST",
+  "updated": "06 Nov 2026, 08:14 AM IST",
   "count": 31,
   "jobs": [
     {
@@ -205,7 +205,7 @@
       "company": "JPMorganChase",
       "location": "Noida, Uttar Pradesh, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-java-backend-%2B-agentic-ai-at-jpmorganchase-4484094728",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-java-backend-%2B-agentic-ai-at-jpmorganchase-4488064491",
       "posted": "Recently",
       "level": "mid",
       "type": "Full-time",
@@ -228,6 +228,17 @@
       "location": "Chennai, Tamil Nadu, India",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/software-development-engineer-alexa-connections-at-amazon-4485217407",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Full Stack Software Engineer",
+      "company": "SLB",
+      "location": "Pune Division, Maharashtra, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-software-engineer-at-slb-4485884128",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -263,17 +274,6 @@
       "url": "https://in.linkedin.com/jobs/view/developer-ii-software-engineering-java-developer-at-ust-4473617721",
       "posted": "Recently",
       "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "SOFTWARE ENGINEER 3",
-      "company": "Xerox",
-      "location": "Greater Kolkata Area",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-3-at-xerox-4362193461",
-      "posted": "Recently",
-      "level": "entry",
       "type": "Full-time",
       "source": "LinkedIn"
     },
