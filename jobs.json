@@ -1,5 +1,5 @@
 {
-  "updated": "06 Nov 2026, 08:14 AM IST",
+  "updated": "07 Nov 2026, 07:30 AM IST",
   "count": 31,
   "jobs": [
     {
@@ -168,13 +168,13 @@
       "source": "Adobe Careers"
     },
     {
-      "title": "Software Engineer II - Java/AWS Engineer",
-      "company": "JPMorganChase",
-      "location": "Bengaluru, Karnataka, India",
+      "title": "Full Stack .Net Developer",
+      "company": "Siemens Healthineers",
+      "location": "Pune District, Maharashtra, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-java-aws-engineer-at-jpmorganchase-4487500582",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-net-developer-at-siemens-healthineers-4486987406",
       "posted": "Recently",
-      "level": "mid",
+      "level": "entry",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -201,11 +201,11 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer II - Java backend + Agentic AI",
+      "title": "Software Engineer III - Java AWS",
       "company": "JPMorganChase",
-      "location": "Noida, Uttar Pradesh, India",
+      "location": "Hyderabad, Telangana, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-java-backend-%2B-agentic-ai-at-jpmorganchase-4488064491",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-at-jpmorganchase-4488195357",
       "posted": "Recently",
       "level": "mid",
       "type": "Full-time",
@@ -256,6 +256,17 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Software Engineer III - Full stack - Java, microservice, messaging, AWS, REACT",
+      "company": "JPMorganChase",
+      "location": "Mumbai, Maharashtra, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-full-stack-java-microservice-messaging-aws-react-at-jpmorganchase-4487513050",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Software Engineer-II",
       "company": "Spreetail",
       "location": "Greater Delhi Area",
@@ -263,17 +274,6 @@
       "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-spreetail-4483850309",
       "posted": "Recently",
       "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Developer II - Software Engineering (Java Developer)",
-      "company": "UST",
-      "location": "Trivandrum, Kerala, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/developer-ii-software-engineering-java-developer-at-ust-4473617721",
-      "posted": "Recently",
-      "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -311,22 +311,22 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer II - Java Full stack with AI",
-      "company": "Mastercard",
-      "location": "Pune Division, Maharashtra, India",
+      "title": "Developer II - Software Engineering (Java Developer)",
+      "company": "UST",
+      "location": "Trivandrum, Kerala, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-java-full-stack-with-ai-at-mastercard-4480683375",
+      "url": "https://in.linkedin.com/jobs/view/developer-ii-software-engineering-java-developer-at-ust-4473617721",
       "posted": "Recently",
       "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer III - Full stack - Java, microservice, messaging, AWS, REACT",
-      "company": "JPMorganChase",
-      "location": "Mumbai, Maharashtra, India",
+      "title": "Software Engineer II - Java Full stack with AI",
+      "company": "Mastercard",
+      "location": "Pune Division, Maharashtra, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-full-stack-java-microservice-messaging-aws-react-at-jpmorganchase-4487513050",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-java-full-stack-with-ai-at-mastercard-4480683375",
       "posted": "Recently",
       "level": "mid",
       "type": "Full-time",
