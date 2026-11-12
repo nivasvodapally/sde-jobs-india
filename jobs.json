@@ -1,6 +1,6 @@
 {
-  "updated": "11 Nov 2026, 07:59 AM IST",
-  "count": 30,
+  "updated": "12 Nov 2026, 08:38 AM IST",
+  "count": 31,
   "jobs": [
     {
       "title": "Software Development Engineer",
@@ -179,28 +179,6 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer III - Java AWS",
-      "company": "JPMorganChase",
-      "location": "Hyderabad, Telangana, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-at-jpmorganchase-4488839955",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer II - Java/AWS Engineer",
-      "company": "JPMorganChase",
-      "location": "Bengaluru, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-java-aws-engineer-at-jpmorganchase-4487500582",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Python Backend Engineer",
       "company": "Hitachi Solutions India Pvt Ltd",
       "location": "Pune Division, Maharashtra, India",
@@ -267,6 +245,28 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Software Engineer III- Java AWS",
+      "company": "JPMorganChase",
+      "location": "Hyderabad, Telangana, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-at-jpmorganchase-4481208108",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer III - Java Full Stack",
+      "company": "JPMorganChase",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-full-stack-at-jpmorganchase-4485302230",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Software Engineer-II",
       "company": "Spreetail",
       "location": "Greater Delhi Area",
@@ -318,6 +318,17 @@
       "url": "https://in.linkedin.com/jobs/view/developer-ii-software-engineering-java-developer-at-ust-4473617721",
       "posted": "Recently",
       "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Java Developer/ Sr. Java Developer",
+      "company": "AIRLINQ",
+      "location": "Jaipur, Rajasthan, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/java-developer-sr-java-developer-at-airlinq-4489478155",
+      "posted": "Recently",
+      "level": "entry",
       "type": "Full-time",
       "source": "LinkedIn"
     },
