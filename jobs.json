@@ -1,6 +1,6 @@
 {
-  "updated": "16 Nov 2026, 08:16 AM IST",
-  "count": 31,
+  "updated": "17 Nov 2026, 09:30 AM IST",
+  "count": 32,
   "jobs": [
     {
       "title": "Software Development Engineer",
@@ -168,17 +168,6 @@
       "source": "Adobe Careers"
     },
     {
-      "title": "Full Stack .Net Developer",
-      "company": "Siemens Healthineers",
-      "location": "Pune District, Maharashtra, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-net-developer-at-siemens-healthineers-4486987406",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Software Engineer III - (Java, AWS)",
       "company": "JPMorganChase",
       "location": "Hyderabad, Telangana, India",
@@ -223,11 +212,33 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Development Engineer II, Alexa Endpoint Experiences, Alexa Devices",
-      "company": "Amazon",
-      "location": "Pune/Pimpri-Chinchwad Area",
+      "title": "Java Software Engineer",
+      "company": "Metropolitan Wireless International",
+      "location": "Bengaluru South, Karnataka, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-alexa-endpoint-experiences-alexa-devices-at-amazon-4462829040",
+      "url": "https://in.linkedin.com/jobs/view/java-software-engineer-at-metropolitan-wireless-international-4490255800",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer III - Java AWS, IVR Connect",
+      "company": "JPMorganChase",
+      "location": "Hyderabad, Telangana, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-ivr-connect-at-jpmorganchase-4490103193",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Development Engineer, Alexa Connections",
+      "company": "Amazon",
+      "location": "Chennai, Tamil Nadu, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-alexa-connections-at-amazon-4485217407",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -245,11 +256,11 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer III - Java Full Stack",
-      "company": "JPMorganChase",
+      "title": "(IND) Software Engineer iii",
+      "company": "Walmart Global Tech India",
       "location": "Bengaluru, Karnataka, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-full-stack-at-jpmorganchase-4485302230",
+      "url": "https://in.linkedin.com/jobs/view/ind-software-engineer-iii-at-walmart-global-tech-india-4491109747",
       "posted": "Recently",
       "level": "mid",
       "type": "Full-time",
@@ -263,17 +274,6 @@
       "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-spreetail-4483850309",
       "posted": "Recently",
       "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Developer II - Software Engineering (Java Developer)",
-      "company": "UST",
-      "location": "Trivandrum, Kerala, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/developer-ii-software-engineering-java-developer-at-ust-4473617721",
-      "posted": "Recently",
-      "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -311,6 +311,17 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Developer II - Software Engineering (Java Developer)",
+      "company": "UST",
+      "location": "Trivandrum, Kerala, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/developer-ii-software-engineering-java-developer-at-ust-4473617721",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Java Back End Developer",
       "company": "BNP Paribas",
       "location": "Bengaluru, Karnataka, India",
@@ -322,22 +333,22 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Development Engineer, Alexa Connections",
-      "company": "Amazon",
-      "location": "Chennai, Tamil Nadu, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-alexa-connections-at-amazon-4485217407",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Fullstack Java With Angular-Software Engineer II",
       "company": "Deloitte",
       "location": "Chennai, Tamil Nadu, India",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/fullstack-java-with-angular-software-engineer-ii-at-deloitte-4424676269",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer III - Java Full Stack",
+      "company": "JPMorganChase",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-full-stack-at-jpmorganchase-4485302230",
       "posted": "Recently",
       "level": "mid",
       "type": "Full-time",
