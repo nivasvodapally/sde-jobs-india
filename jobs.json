@@ -1,6 +1,6 @@
 {
-  "updated": "24 Nov 2026, 11:22 AM IST",
-  "count": 30,
+  "updated": "25 Nov 2026, 10:07 AM IST",
+  "count": 29,
   "jobs": [
     {
       "title": "Software Development Engineer",
@@ -190,6 +190,17 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Software Engineer II - Java, Spring, Hibernate, Rest API, Kafka, SQL",
+      "company": "JPMorganChase",
+      "location": "Mumbai, Maharashtra, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-java-spring-hibernate-rest-api-kafka-sql-at-jpmorganchase-4494495001",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Software Development Engineer II, Amazon Now (Tez)",
       "company": "Amazon",
       "location": "Chennai, Tamil Nadu, India",
@@ -197,6 +208,17 @@
       "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-amazon-now-tez-at-amazon-4490760961",
       "posted": "Recently",
       "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer II",
+      "company": "HERE Technologies",
+      "location": "Mumbai Metropolitan Region",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-here-technologies-4494166282",
+      "posted": "Recently",
+      "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -256,28 +278,6 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Development Engineer, AWS DynamoDB",
-      "company": "Amazon Web Services (AWS)",
-      "location": "Bengaluru, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-aws-dynamodb-at-amazon-web-services-aws-4477826957",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer III Java Springboot AWS",
-      "company": "JPMorganChase",
-      "location": "Bengaluru, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-springboot-aws-at-jpmorganchase-4493288054",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Software Development Engineer, Alexa Connections",
       "company": "Amazon",
       "location": "Chennai, Tamil Nadu, India",
@@ -296,17 +296,6 @@
       "url": "https://in.linkedin.com/jobs/view/fullstack-java-with-angular-software-engineer-ii-at-deloitte-4424676269",
       "posted": "Recently",
       "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Java Software Engineer",
-      "company": "Metropolitan Wireless International",
-      "location": "Bengaluru South, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/java-software-engineer-at-metropolitan-wireless-international-4490255800",
-      "posted": "Recently",
-      "level": "entry",
       "type": "Full-time",
       "source": "LinkedIn"
     },
