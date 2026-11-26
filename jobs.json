@@ -1,6 +1,6 @@
 {
-  "updated": "25 Nov 2026, 10:07 AM IST",
-  "count": 29,
+  "updated": "26 Nov 2026, 09:49 AM IST",
+  "count": 31,
   "jobs": [
     {
       "title": "Software Development Engineer",
@@ -168,35 +168,24 @@
       "source": "Adobe Careers"
     },
     {
-      "title": "Software Engineer (Fullstack- Java)",
-      "company": "Veradigm\u00ae",
-      "location": "Pune Division, Maharashtra, India",
+      "title": "Software Engineer II",
+      "company": "HERE Technologies",
+      "location": "Mumbai Metropolitan Region",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-fullstack-java-at-veradigm%C2%AE-4486858570",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Development Engineer II, Seller Partner Services Tech",
-      "company": "Amazon",
-      "location": "Bengaluru, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-seller-partner-services-tech-at-amazon-4471646111",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer II - Java, Spring, Hibernate, Rest API, Kafka, SQL",
-      "company": "JPMorganChase",
-      "location": "Mumbai, Maharashtra, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-java-spring-hibernate-rest-api-kafka-sql-at-jpmorganchase-4494495001",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-here-technologies-4494166282",
       "posted": "Recently",
       "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Python Backend Engineer",
+      "company": "Hitachi Solutions India Pvt Ltd",
+      "location": "Pune Division, Maharashtra, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/python-backend-engineer-at-hitachi-solutions-india-pvt-ltd-4471319619",
+      "posted": "Recently",
+      "level": "entry",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -212,22 +201,22 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer II",
-      "company": "HERE Technologies",
-      "location": "Mumbai Metropolitan Region",
+      "title": "Software Engineer (Fullstack- Java)",
+      "company": "Veradigm\u00ae",
+      "location": "Pune Division, Maharashtra, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-here-technologies-4494166282",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-fullstack-java-at-veradigm%C2%AE-4486858570",
       "posted": "Recently",
-      "level": "mid",
+      "level": "entry",
       "type": "Full-time",
       "source": "LinkedIn"
     },
     {
-      "title": "Cloud Native Full stack Java Developer",
-      "company": "SAP Fioneer",
-      "location": "Pune Division, Maharashtra, India",
+      "title": "Development Engineer 2",
+      "company": "Comcast",
+      "location": "Chennai, Tamil Nadu, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/cloud-native-full-stack-java-developer-at-sap-fioneer-4483887085",
+      "url": "https://in.linkedin.com/jobs/view/development-engineer-2-at-comcast-4494966257",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -245,11 +234,33 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer II",
-      "company": "Mastercard",
-      "location": "Pune Division, Maharashtra, India",
+      "title": "Software Development Engineer, Alexa Connections",
+      "company": "Amazon",
+      "location": "Chennai, Tamil Nadu, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-mastercard-4440190381",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-alexa-connections-at-amazon-4485217407",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Development Engineer, AWS DynamoDB",
+      "company": "Amazon Web Services (AWS)",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-aws-dynamodb-at-amazon-web-services-aws-4477826957",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer III - Java Full Stack",
+      "company": "JPMorganChase",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-full-stack-at-jpmorganchase-4485302230",
       "posted": "Recently",
       "level": "mid",
       "type": "Full-time",
@@ -267,6 +278,39 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Software Development Engineer II, Seller Partner Services Tech",
+      "company": "Amazon",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-seller-partner-services-tech-at-amazon-4471646111",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Cloud Native Full stack Java Developer",
+      "company": "SAP Fioneer",
+      "location": "Pune Division, Maharashtra, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/cloud-native-full-stack-java-developer-at-sap-fioneer-4483887085",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer II",
+      "company": "Mastercard",
+      "location": "Pune Division, Maharashtra, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-mastercard-4440190381",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Java Back End Developer",
       "company": "BNP Paribas",
       "location": "Bengaluru, Karnataka, India",
@@ -278,13 +322,13 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Development Engineer, Alexa Connections",
-      "company": "Amazon",
-      "location": "Chennai, Tamil Nadu, India",
+      "title": "Software Engineer III-Java, Springboot",
+      "company": "JPMorganChase",
+      "location": "Bengaluru, Karnataka, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-alexa-connections-at-amazon-4485217407",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-springboot-at-jpmorganchase-4494628093",
       "posted": "Recently",
-      "level": "entry",
+      "level": "mid",
       "type": "Full-time",
       "source": "LinkedIn"
     },
@@ -296,28 +340,6 @@
       "url": "https://in.linkedin.com/jobs/view/fullstack-java-with-angular-software-engineer-ii-at-deloitte-4424676269",
       "posted": "Recently",
       "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer III - Java Full Stack",
-      "company": "JPMorganChase",
-      "location": "Bengaluru, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-full-stack-at-jpmorganchase-4485302230",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Python Backend Engineer",
-      "company": "Hitachi Solutions India Pvt Ltd",
-      "location": "Pune Division, Maharashtra, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/python-backend-engineer-at-hitachi-solutions-india-pvt-ltd-4471319619",
-      "posted": "Recently",
-      "level": "entry",
       "type": "Full-time",
       "source": "LinkedIn"
     }
