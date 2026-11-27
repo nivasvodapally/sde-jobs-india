@@ -1,5 +1,5 @@
 {
-  "updated": "26 Nov 2026, 09:49 AM IST",
+  "updated": "27 Nov 2026, 09:55 AM IST",
   "count": 31,
   "jobs": [
     {
@@ -216,18 +216,7 @@
       "company": "Comcast",
       "location": "Chennai, Tamil Nadu, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/development-engineer-2-at-comcast-4494966257",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer",
-      "company": "Bajaj Finserv",
-      "location": "Pune Division, Maharashtra, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-bajaj-finserv-4450612638",
+      "url": "https://in.linkedin.com/jobs/view/development-engineer-2-at-comcast-4494958515",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
@@ -278,6 +267,17 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Software Engineer III - Java, SpringBoot, AWS",
+      "company": "JPMorganChase",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-springboot-aws-at-jpmorganchase-4495259246",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Software Development Engineer II, Seller Partner Services Tech",
       "company": "Amazon",
       "location": "Bengaluru, Karnataka, India",
@@ -322,13 +322,13 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer III-Java, Springboot",
-      "company": "JPMorganChase",
-      "location": "Bengaluru, Karnataka, India",
+      "title": "Software Engineer",
+      "company": "Bajaj Finserv",
+      "location": "Pune Division, Maharashtra, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-springboot-at-jpmorganchase-4494628093",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-bajaj-finserv-4485915198",
       "posted": "Recently",
-      "level": "mid",
+      "level": "entry",
       "type": "Full-time",
       "source": "LinkedIn"
     },
