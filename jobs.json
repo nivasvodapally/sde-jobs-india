@@ -1,5 +1,5 @@
 {
-  "updated": "27 Nov 2026, 09:55 AM IST",
+  "updated": "28 Nov 2026, 09:08 AM IST",
   "count": 31,
   "jobs": [
     {
@@ -168,6 +168,28 @@
       "source": "Adobe Careers"
     },
     {
+      "title": "Engineer 2, Software Development & Engineering",
+      "company": "Comcast",
+      "location": "Chennai, Tamil Nadu, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/engineer-2-software-development-engineering-at-comcast-4495320213",
+      "posted": "Recently",
+      "level": "entry",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "Software Engineer III ( Java, AWS, SQL)",
+      "company": "JPMorganChase",
+      "location": "Hyderabad, Telangana, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-sql-at-jpmorganchase-4490584194",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Software Engineer II",
       "company": "HERE Technologies",
       "location": "Mumbai Metropolitan Region",
@@ -201,28 +223,6 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Software Engineer (Fullstack- Java)",
-      "company": "Veradigm\u00ae",
-      "location": "Pune Division, Maharashtra, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-fullstack-java-at-veradigm%C2%AE-4486858570",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Development Engineer 2",
-      "company": "Comcast",
-      "location": "Chennai, Tamil Nadu, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/development-engineer-2-at-comcast-4494958515",
-      "posted": "Recently",
-      "level": "entry",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
       "title": "Software Development Engineer, Alexa Connections",
       "company": "Amazon",
       "location": "Chennai, Tamil Nadu, India",
@@ -245,6 +245,17 @@
       "source": "LinkedIn"
     },
     {
+      "title": "Software Engineer II",
+      "company": "Rocket India",
+      "location": "Chennai, Tamil Nadu, India",
+      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-rocket-india-4492968763",
+      "posted": "Recently",
+      "level": "mid",
+      "type": "Full-time",
+      "source": "LinkedIn"
+    },
+    {
       "title": "Software Engineer III - Java Full Stack",
       "company": "JPMorganChase",
       "location": "Bengaluru, Karnataka, India",
@@ -261,17 +272,6 @@
       "location": "Trivandrum, Kerala, India",
       "description": "",
       "url": "https://in.linkedin.com/jobs/view/developer-ii-software-engineering-java-developer-at-ust-4473617721",
-      "posted": "Recently",
-      "level": "mid",
-      "type": "Full-time",
-      "source": "LinkedIn"
-    },
-    {
-      "title": "Software Engineer III - Java, SpringBoot, AWS",
-      "company": "JPMorganChase",
-      "location": "Bengaluru, Karnataka, India",
-      "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-springboot-aws-at-jpmorganchase-4495259246",
       "posted": "Recently",
       "level": "mid",
       "type": "Full-time",
@@ -326,7 +326,7 @@
       "company": "Bajaj Finserv",
       "location": "Pune Division, Maharashtra, India",
       "description": "",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-bajaj-finserv-4485915198",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-bajaj-finserv-4485914223",
       "posted": "Recently",
       "level": "entry",
       "type": "Full-time",
